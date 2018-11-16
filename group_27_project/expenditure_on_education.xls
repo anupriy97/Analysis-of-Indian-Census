@@ -1,0 +1,667 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Excel.Sheet>
+<meta name=Generator content="Microsoft Excel 12">
+<link rel=File-List href="p2_files/filelist.xml">
+<style id="HTML....all_18680_Styles">
+<!--table
+	{mso-displayed-decimal-separator:"\.";
+	mso-displayed-thousand-separator:"\,";}
+.font518680
+	{color:white;
+	font-size:8.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;}
+.font618680
+	{color:white;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;}
+.xl7818680
+	{color:windowtext;
+	font-size:8.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:right;
+	vertical-align:middle;
+	border:1.0pt solid black;
+	background:#8BC4F3;
+	mso-pattern:black none;
+	white-space:normal;
+	padding-right:9px;
+	mso-char-indent-count:1;}
+.xl7918680
+	{color:windowtext;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:right;
+	vertical-align:middle;
+	border:1.0pt solid black;
+	background:#DFF0FF;
+	mso-pattern:black none;
+	white-space:normal;
+	padding-right:9px;
+	mso-char-indent-count:1;}
+.xl8018680
+	{color:windowtext;
+	font-size:8.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:right;
+	vertical-align:middle;
+	border:1.0pt solid black;
+	background:#DFF0FF;
+	mso-pattern:black none;
+	white-space:normal;
+	padding-right:9px;
+	mso-char-indent-count:1;}
+.xl8118680
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:#7F7F7F;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl8218680
+	{color:windowtext;
+	font-size:8.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:middle;
+	border:1.0pt solid black;
+	background:#8BC4F3;
+	mso-pattern:black none;
+	white-space:normal;
+	padding-left:9px;
+	mso-char-indent-count:1;}
+.xl8318680
+	{color:windowtext;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:middle;
+	border:1.0pt solid black;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:normal;
+	padding-left:9px;
+	mso-char-indent-count:1;}
+.xl8418680
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:white;
+	font-size:8.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	border:1.0pt solid black;
+	background:#005195;
+	mso-pattern:black none;
+	white-space:normal;}
+.xl8518680
+	{color:windowtext;
+	font-size:8.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:right;
+	vertical-align:middle;
+	border-top:1.0pt solid black;
+	border-right:none;
+	border-bottom:1.0pt solid black;
+	border-left:1.0pt solid black;
+	background:#8BC4F3;
+	mso-pattern:black none;
+	white-space:normal;
+	padding-right:9px;
+	mso-char-indent-count:1;}
+.xl8618680
+	{color:windowtext;
+	font-size:8.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:right;
+	vertical-align:middle;
+	border-top:1.0pt solid black;
+	border-right:none;
+	border-bottom:1.0pt solid black;
+	border-left:none;
+	background:#8BC4F3;
+	mso-pattern:black none;
+	white-space:normal;
+	padding-right:9px;
+	mso-char-indent-count:1;}
+.xl8718680
+	{color:windowtext;
+	font-size:8.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:right;
+	vertical-align:middle;
+	border-top:1.0pt solid black;
+	border-right:1.0pt solid black;
+	border-bottom:1.0pt solid black;
+	border-left:none;
+	background:#8BC4F3;
+	mso-pattern:black none;
+	white-space:normal;
+	padding-right:9px;
+	mso-char-indent-count:1;}
+.xl8818680
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:normal;}
+.xl8918680
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:#7F7F7F;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:middle;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl9018680
+	{color:windowtext;
+	font-size:8.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:middle;
+	border:1.0pt solid black;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:normal;
+	padding-left:9px;
+	mso-char-indent-count:1;}
+.xl9118680
+	{color:windowtext;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:right;
+	vertical-align:middle;
+	border:1.0pt solid black;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:normal;
+	padding-right:9px;
+	mso-char-indent-count:1;}
+.xl9218680
+	{color:windowtext;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"\#\#\#0\.00\;\#\#\#0\.00";
+	text-align:right;
+	vertical-align:middle;
+	border:1.0pt solid black;
+	background:#DFF0FF;
+	mso-pattern:black none;
+	white-space:normal;
+	padding-right:9px;
+	mso-char-indent-count:1;}
+.xl9318680
+	{color:windowtext;
+	font-size:8.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:right;
+	vertical-align:middle;
+	border:1.0pt solid black;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:normal;
+	padding-right:9px;
+	mso-char-indent-count:1;}
+.xl9418680
+	{color:windowtext;
+	font-size:8.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"\#\#\#0\.00\;\#\#\#0\.00";
+	text-align:right;
+	vertical-align:middle;
+	border:1.0pt solid black;
+	background:#DFF0FF;
+	mso-pattern:black none;
+	white-space:normal;
+	padding-right:9px;
+	mso-char-indent-count:1;}
+-->
+</style>
+</head>
+
+ <body oncontextmenu='return false;' onload='javascript:MyIpIs();'  onkeydown='return onkeyDowEvent(event)'>  </noscript> <script language='JavaScript'>  function msg() { alert('Please download file, Save as not allowed');  }  function MyIpIs() { var elem = document.getElementById('toc'); elem.style.visibility='hidden';   var url=window.location.href;  var ind =url.indexOf('.com'); var ind1 =url.indexOf('.local'); if(ind == -1 || ind1 ==-1 ) { elem.style.visibility='visible'; } else { elem.style.visibility='hidden'; elem.parentNode.removeChild(elem); msg(); } } </script> <script type='text/javascript'>  function onkeyDowEvent(e) { var keycode; var keyName=''; if(window.event) {if(e.ctrlKey){return false ; } else {return true; }            } return true; } </script> <span style='display:none;' id='myIp'></span><span style='display:none;' id='S1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><div id='toc' style='visibility=hidden;' oncopy='retuns false;'>
+<!--[if !excel]>&nbsp;&nbsp;<![endif]-->
+<!--The following information was generated by Microsoft Office Excel's Publish
+as Web Page wizard.-->
+<!--If the same item is republished from Excel, all information between the DIV
+tags will be replaced.-->
+<!----------------------------->
+<!--START OF OUTPUT FROM EXCEL PUBLISH AS WEB PAGE WIZARD -->
+<!----------------------------->
+
+<div id="HTML....all_18680" align=center x:publishsource="Excel">
+
+<table border=0 cellpadding=0 cellspacing=0 width=1068 class=xl8818680
+ style='border-collapse:collapse;table-layout:fixed;width:801pt'>
+ <col class=xl8818680 width=100 style='mso-width-source:userset;mso-width-alt:
+ 3657;width:75pt'>
+ <col class=xl8818680 width=68 style='mso-width-source:userset;mso-width-alt:
+ 2486;width:51pt'>
+ <col class=xl8818680 width=76 span=3 style='mso-width-source:userset;
+ mso-width-alt:2779;width:57pt'>
+ <col class=xl8818680 width=84 span=3 style='mso-width-source:userset;
+ mso-width-alt:3072;width:63pt'>
+ <col class=xl8818680 width=76 style='mso-width-source:userset;mso-width-alt:
+ 2779;width:57pt'>
+ <col class=xl8818680 width=84 span=3 style='mso-width-source:userset;
+ mso-width-alt:3072;width:63pt'>
+ <col class=xl8818680 width=92 style='mso-width-source:userset;mso-width-alt:
+ 3364;width:69pt'>
+ <tr height=36 style='mso-height-source:userset;height:27.0pt'>
+  <td colspan=13 height=36 class=xl8418680 width=1068 style='height:27.0pt;
+  width:801pt'><font class="font618680">Expenditure on Education by Centre and
+  State Governments in India</font><font class="font518680"><br>
+    (1985-1986, 1990-1991, 1995-1996, 2000-2001, 2005-2006 to 2010-2011 and
+  2012-2013)</font></td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.95pt'>
+  <td colspan=13 height=17 class=xl8518680 width=1068 style='border-right:1.0pt solid black;
+  height:12.95pt;width:801pt'>(Rs. in Crore)</td>
+ </tr>
+ <tr height=43 style='height:32.25pt'>
+  <td height=43 class=xl8218680 width=100 style='height:32.25pt;border-top:
+  none;width:75pt'>Source</td>
+  <td class=xl7818680 width=68 style='border-top:none;border-left:none;
+  width:51pt'>1985-<br>
+    86+</td>
+  <td class=xl7818680 width=76 style='border-top:none;border-left:none;
+  width:57pt'>1990-91</td>
+  <td class=xl7818680 width=76 style='border-top:none;border-left:none;
+  width:57pt'>1995-96</td>
+  <td class=xl7818680 width=76 style='border-top:none;border-left:none;
+  width:57pt'>2000-01</td>
+  <td class=xl7818680 width=84 style='border-top:none;border-left:none;
+  width:63pt'>2005-06</td>
+  <td class=xl7818680 width=84 style='border-top:none;border-left:none;
+  width:63pt'>2006-07</td>
+  <td class=xl7818680 width=84 style='border-top:none;border-left:none;
+  width:63pt'>2007-08</td>
+  <td class=xl7818680 width=76 style='border-top:none;border-left:none;
+  width:57pt'>2008-09</td>
+  <td class=xl7818680 width=84 style='border-top:none;border-left:none;
+  width:63pt'>2009-<br>
+    10+</td>
+  <td class=xl7818680 width=84 style='border-top:none;border-left:none;
+  width:63pt'>2010-11*</td>
+  <td class=xl7818680 width=84 style='border-top:none;border-left:none;
+  width:63pt'>2012-13</td>
+  <td class=xl7818680 width=92 style='border-top:none;border-left:none;
+  width:69pt'>Share with<br>
+    Respect to<br>
+    <span style='mso-spacerun:yes'> </span>Total (%)</td>
+ </tr>
+ <tr height=29 style='height:21.75pt'>
+  <td height=29 class=xl8318680 width=100 style='height:21.75pt;border-top:
+  none;width:75pt'>Central Government</td>
+  <td class=xl7918680 width=68 style='border-top:none;border-left:none;
+  width:51pt'>942.1</td>
+  <td class=xl9118680 width=76 style='border-top:none;border-left:none;
+  width:57pt'>2420.45</td>
+  <td class=xl7918680 width=76 style='border-top:none;border-left:none;
+  width:57pt'>5551.02</td>
+  <td class=xl9118680 width=76 style='border-top:none;border-left:none;
+  width:57pt'>10196.06</td>
+  <td class=xl7918680 width=84 style='border-top:none;border-left:none;
+  width:63pt'>23211.13</td>
+  <td class=xl9118680 width=84 style='border-top:none;border-left:none;
+  width:63pt'>34236.52</td>
+  <td class=xl7918680 width=84 style='border-top:none;border-left:none;
+  width:63pt'>39919.37</td>
+  <td class=xl9118680 width=76 style='border-top:none;border-left:none;
+  width:57pt'>48727.59</td>
+  <td class=xl7918680 width=84 style='border-top:none;border-left:none;
+  width:63pt'>58146.34</td>
+  <td class=xl9118680 width=84 style='border-top:none;border-left:none;
+  width:63pt'>66552.34</td>
+  <td class=xl9218680 width=84 style='border-top:none;border-left:none;
+  width:63pt'>109223.31</td>
+  <td class=xl9118680 width=92 style='border-top:none;border-left:none;
+  width:69pt'>27.09%</td>
+ </tr>
+ <tr height=29 style='height:21.75pt'>
+  <td height=29 class=xl8318680 width=100 style='height:21.75pt;border-top:
+  none;width:75pt'>State Government</td>
+  <td class=xl7918680 width=68 style='border-top:none;border-left:none;
+  width:51pt'>8269.76</td>
+  <td class=xl9118680 width=76 style='border-top:none;border-left:none;
+  width:57pt'>18340.88</td>
+  <td class=xl7918680 width=76 style='border-top:none;border-left:none;
+  width:57pt'>33217.67</td>
+  <td class=xl9118680 width=76 style='border-top:none;border-left:none;
+  width:57pt'>72683.1</td>
+  <td class=xl7918680 width=84 style='border-top:none;border-left:none;
+  width:63pt'>91177.69</td>
+  <td class=xl9118680 width=84 style='border-top:none;border-left:none;
+  width:63pt'>104490.51</td>
+  <td class=xl7918680 width=84 style='border-top:none;border-left:none;
+  width:63pt'>117764.94</td>
+  <td class=xl9118680 width=76 style='border-top:none;border-left:none;
+  width:57pt'>143667.41</td>
+  <td class=xl7918680 width=84 style='border-top:none;border-left:none;
+  width:63pt'>188636.04</td>
+  <td class=xl9118680 width=84 style='border-top:none;border-left:none;
+  width:63pt'>209956.4</td>
+  <td class=xl9218680 width=84 style='border-top:none;border-left:none;
+  width:63pt'>294013.20</td>
+  <td class=xl9118680 width=92 style='border-top:none;border-left:none;
+  width:69pt'>72.91%</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.95pt'>
+  <td height=17 class=xl9018680 width=100 style='height:12.95pt;border-top:
+  none;width:75pt'>Total</td>
+  <td class=xl8018680 width=68 style='border-top:none;border-left:none;
+  width:51pt'>9211.86</td>
+  <td class=xl9318680 width=76 style='border-top:none;border-left:none;
+  width:57pt'>20761.33</td>
+  <td class=xl8018680 width=76 style='border-top:none;border-left:none;
+  width:57pt'>38768.69</td>
+  <td class=xl9318680 width=76 style='border-top:none;border-left:none;
+  width:57pt'>82879.16</td>
+  <td class=xl8018680 width=84 style='border-top:none;border-left:none;
+  width:63pt'>114388.82</td>
+  <td class=xl9318680 width=84 style='border-top:none;border-left:none;
+  width:63pt'>138727.03</td>
+  <td class=xl8018680 width=84 style='border-top:none;border-left:none;
+  width:63pt'>157684.31</td>
+  <td class=xl9318680 width=76 style='border-top:none;border-left:none;
+  width:57pt'>192395</td>
+  <td class=xl8018680 width=84 style='border-top:none;border-left:none;
+  width:63pt'>246782.38</td>
+  <td class=xl9318680 width=84 style='border-top:none;border-left:none;
+  width:63pt'>276508.74</td>
+  <td class=xl9418680 width=84 style='border-top:none;border-left:none;
+  width:63pt'>403236.51</td>
+  <td class=xl9318680 width=92 style='border-top:none;border-left:none;
+  width:69pt'>100%</td>
+ </tr>
+ <tr height=16 style='mso-height-source:userset;height:12.6pt'>
+  <td height=16 class=xl8818680 width=100 style='height:12.6pt;width:75pt'></td>
+  <td class=xl8818680 width=68 style='width:51pt'></td>
+  <td class=xl8818680 width=76 style='width:57pt'></td>
+  <td class=xl8818680 width=76 style='width:57pt'></td>
+  <td class=xl8818680 width=76 style='width:57pt'></td>
+  <td class=xl8818680 width=84 style='width:63pt'></td>
+  <td class=xl8818680 width=84 style='width:63pt'></td>
+  <td class=xl8818680 width=84 style='width:63pt'></td>
+  <td class=xl8818680 width=76 style='width:57pt'></td>
+  <td class=xl8818680 width=84 style='width:63pt'></td>
+  <td class=xl8818680 width=84 style='width:63pt'></td>
+  <td class=xl8818680 width=84 style='width:63pt'></td>
+  <td class=xl8818680 width=92 style='width:69pt'></td>
+ </tr>
+ <tr height=16 style='mso-height-source:userset;height:12.6pt'>
+  <td height=16 class=xl8918680 colspan=2 style='height:12.6pt'>Note : * :
+  Budget Estimate.</td>
+  <td class=xl8818680 width=76 style='width:57pt'></td>
+  <td class=xl8818680 width=76 style='width:57pt'></td>
+  <td class=xl8818680 width=76 style='width:57pt'></td>
+  <td class=xl8818680 width=84 style='width:63pt'></td>
+  <td class=xl8818680 width=84 style='width:63pt'></td>
+  <td class=xl8818680 width=84 style='width:63pt'></td>
+  <td class=xl8818680 width=76 style='width:57pt'></td>
+  <td class=xl8818680 width=84 style='width:63pt'></td>
+  <td class=xl8818680 width=84 style='width:63pt'></td>
+  <td class=xl8818680 width=84 style='width:63pt'></td>
+  <td class=xl8818680 width=92 style='width:69pt'></td>
+ </tr>
+ <tr height=16 style='mso-height-source:userset;height:12.6pt'>
+  <td height=16 class=xl8918680 colspan=2 style='height:12.6pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  + : Revised Estimate.</td>
+  <td class=xl8818680 width=76 style='width:57pt'></td>
+  <td class=xl8818680 width=76 style='width:57pt'></td>
+  <td class=xl8818680 width=76 style='width:57pt'></td>
+  <td class=xl8818680 width=84 style='width:63pt'></td>
+  <td class=xl8818680 width=84 style='width:63pt'></td>
+  <td class=xl8818680 width=84 style='width:63pt'></td>
+  <td class=xl8818680 width=76 style='width:57pt'></td>
+  <td class=xl8818680 width=84 style='width:63pt'></td>
+  <td class=xl8818680 width=84 style='width:63pt'></td>
+  <td class=xl8818680 width=84 style='width:63pt'></td>
+  <td class=xl8818680 width=92 style='width:69pt'></td>
+ </tr>
+ <tr height=16 style='mso-height-source:userset;height:12.6pt'>
+  <td height=16 class=xl8918680 colspan=6 style='height:12.6pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  1. The Centre and State Education Department budget is total of the</td>
+  <td class=xl8818680 width=84 style='width:63pt'></td>
+  <td class=xl8818680 width=84 style='width:63pt'></td>
+  <td class=xl8818680 width=76 style='width:57pt'></td>
+  <td class=xl8818680 width=84 style='width:63pt'></td>
+  <td class=xl8818680 width=84 style='width:63pt'></td>
+  <td class=xl8818680 width=84 style='width:63pt'></td>
+  <td class=xl8818680 width=92 style='width:69pt'></td>
+ </tr>
+ <tr height=16 style='mso-height-source:userset;height:12.6pt'>
+  <td height=16 class=xl8918680 colspan=6 style='height:12.6pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Revenue, Capital, Loans and advances and other Departments.</td>
+  <td class=xl8818680 width=84 style='width:63pt'></td>
+  <td class=xl8818680 width=84 style='width:63pt'></td>
+  <td class=xl8818680 width=76 style='width:57pt'></td>
+  <td class=xl8818680 width=84 style='width:63pt'></td>
+  <td class=xl8818680 width=84 style='width:63pt'></td>
+  <td class=xl8818680 width=84 style='width:63pt'></td>
+  <td class=xl8818680 width=92 style='width:69pt'></td>
+ </tr>
+ <tr height=16 style='mso-height-source:userset;height:12.6pt'>
+  <td height=16 class=xl8918680 colspan=6 style='height:12.6pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  2. Total Expenditure on Education includes Expenditure by the Education</td>
+  <td class=xl8818680 width=84 style='width:63pt'></td>
+  <td class=xl8818680 width=84 style='width:63pt'></td>
+  <td class=xl8818680 width=76 style='width:57pt'></td>
+  <td class=xl8818680 width=84 style='width:63pt'></td>
+  <td class=xl8818680 width=84 style='width:63pt'></td>
+  <td class=xl8818680 width=84 style='width:63pt'></td>
+  <td class=xl8818680 width=92 style='width:69pt'></td>
+ </tr>
+ <tr height=16 style='mso-height-source:userset;height:12.6pt'>
+  <td height=16 class=xl8918680 colspan=6 style='height:12.6pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Department and other Departments, Where Other Departments,</td>
+  <td class=xl8818680 width=84 style='width:63pt'></td>
+  <td class=xl8818680 width=84 style='width:63pt'></td>
+  <td class=xl8818680 width=76 style='width:57pt'></td>
+  <td class=xl8818680 width=84 style='width:63pt'></td>
+  <td class=xl8818680 width=84 style='width:63pt'></td>
+  <td class=xl8818680 width=84 style='width:63pt'></td>
+  <td class=xl8818680 width=92 style='width:69pt'></td>
+ </tr>
+ <tr height=16 style='mso-height-source:userset;height:12.6pt'>
+  <td height=16 class=xl8918680 colspan=6 style='height:12.6pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Expenditure also includes Expenditure for training (formal/informal).</td>
+  <td class=xl8818680 width=84 style='width:63pt'></td>
+  <td class=xl8818680 width=84 style='width:63pt'></td>
+  <td class=xl8818680 width=76 style='width:57pt'></td>
+  <td class=xl8818680 width=84 style='width:63pt'></td>
+  <td class=xl8818680 width=84 style='width:63pt'></td>
+  <td class=xl8818680 width=84 style='width:63pt'></td>
+  <td class=xl8818680 width=92 style='width:69pt'></td>
+ </tr>
+ <tr height=16 style='mso-height-source:userset;height:12.6pt'>
+  <td height=16 class=xl8918680 colspan=5 style='height:12.6pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  3. State Government include States and Union Territories.</td>
+  <td class=xl8818680 width=84 style='width:63pt'></td>
+  <td class=xl8818680 width=84 style='width:63pt'></td>
+  <td class=xl8818680 width=84 style='width:63pt'></td>
+  <td class=xl8818680 width=76 style='width:57pt'></td>
+  <td class=xl8818680 width=84 style='width:63pt'></td>
+  <td class=xl8818680 width=84 style='width:63pt'></td>
+  <td class=xl8818680 width=84 style='width:63pt'></td>
+  <td class=xl8818680 width=92 style='width:69pt'></td>
+ </tr>
+ <tr height=16 style='mso-height-source:userset;height:12.6pt'>
+  <td height=16 class=xl8918680 colspan=6 style='height:12.6pt'>Source :
+  Ministry of Science and Technology, Govt. of India. (ON477) &amp;</td>
+  <td class=xl8818680 width=84 style='width:63pt'></td>
+  <td class=xl8818680 width=84 style='width:63pt'></td>
+  <td class=xl8818680 width=76 style='width:57pt'></td>
+  <td class=xl8818680 width=84 style='width:63pt'></td>
+  <td class=xl8818680 width=84 style='width:63pt'></td>
+  <td class=xl8818680 width=84 style='width:63pt'></td>
+  <td class=xl8818680 width=92 style='width:69pt'></td>
+ </tr>
+ <tr height=16 style='mso-height-source:userset;height:12.6pt'>
+  <td height=16 class=xl8118680 colspan=6 style='height:12.6pt'><span
+  style='mso-spacerun:yes'>           </span>: Ministry of Human Resource
+  Development, Govt. of India. (ON632)</td>
+  <td class=xl8818680 width=84 style='width:63pt'></td>
+  <td class=xl8818680 width=84 style='width:63pt'></td>
+  <td class=xl8818680 width=76 style='width:57pt'></td>
+  <td class=xl8818680 width=84 style='width:63pt'></td>
+  <td class=xl8818680 width=84 style='width:63pt'></td>
+  <td class=xl8818680 width=84 style='width:63pt'></td>
+  <td class=xl8818680 width=92 style='width:69pt'></td>
+ </tr>
+ <tr height=16 style='mso-height-source:userset;height:12.6pt'>
+  <td height=16 class=xl8818680 width=100 style='height:12.6pt;width:75pt'></td>
+  <td class=xl8818680 width=68 style='width:51pt'></td>
+  <td class=xl8818680 width=76 style='width:57pt'></td>
+  <td class=xl8818680 width=76 style='width:57pt'></td>
+  <td class=xl8818680 width=76 style='width:57pt'></td>
+  <td class=xl8818680 width=84 style='width:63pt'></td>
+  <td class=xl8818680 width=84 style='width:63pt'></td>
+  <td class=xl8818680 width=84 style='width:63pt'></td>
+  <td class=xl8818680 width=76 style='width:57pt'></td>
+  <td class=xl8818680 width=84 style='width:63pt'></td>
+  <td class=xl8818680 width=84 style='width:63pt'></td>
+  <td class=xl8818680 width=84 style='width:63pt'></td>
+  <td class=xl8818680 width=92 style='width:69pt'></td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=0 style='display:none'>
+  <td width=100 style='width:75pt'></td>
+  <td width=68 style='width:51pt'></td>
+  <td width=76 style='width:57pt'></td>
+  <td width=76 style='width:57pt'></td>
+  <td width=76 style='width:57pt'></td>
+  <td width=84 style='width:63pt'></td>
+  <td width=84 style='width:63pt'></td>
+  <td width=84 style='width:63pt'></td>
+  <td width=76 style='width:57pt'></td>
+  <td width=84 style='width:63pt'></td>
+  <td width=84 style='width:63pt'></td>
+  <td width=84 style='width:63pt'></td>
+  <td width=92 style='width:69pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
+</div>
+
+
+<!----------------------------->
+<!--END OF OUTPUT FROM EXCEL PUBLISH AS WEB PAGE WIZARD-->
+<!----------------------------->
+</body>  </div>   </body></html>

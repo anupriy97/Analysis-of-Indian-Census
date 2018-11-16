@@ -1,0 +1,1602 @@
+<html>
+
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>New Page 1</title>
+<style>
+<!--
+.Header1     { font-family: Verdana; font-size: 10pt; color: #306460; font-weight: bold; 
+               text-align: Center; background-color: #FFCC90 }
+.FirstCol    { font-family: Verdana; font-size: 8pt; line-height: 8pt; text-align: Left }
+.Footer      { font-family: Verdana; font-size: 8pt; color: #808080; text-align: Left; 
+               margin-left: 40; margin-right: 80 }
+.Column_Normal { font-family: Verdana; font-size: 8pt; line-height: 8pt;text-align: Right }
+.Column_Color { font-family: Verdana; font-size: 8pt; background-color: #FFD8A8; line-height: 8pt; text-align: 
+               Right }
+.Header2     { font-family: Verdana; font-size: 8pt; color: #306460; background-color: 
+               #A5E3E7; font-weight: bold; text-align: Center }
+-->
+</style>
+</head>
+
+ <body oncontextmenu='return false;' onload='javascript:MyIpIs();'  onkeydown='return onkeyDowEvent(event)'>  </noscript> <script language='JavaScript'>  function msg() { alert('Please download file, Save as not allowed');  }  function MyIpIs() { var elem = document.getElementById('toc'); elem.style.visibility='hidden';   var url=window.location.href;  var ind =url.indexOf('.com'); var ind1 =url.indexOf('.local'); if(ind == -1 || ind1 ==-1 ) { elem.style.visibility='visible'; } else { elem.style.visibility='hidden'; elem.parentNode.removeChild(elem); msg(); } } </script> <script type='text/javascript'>  function onkeyDowEvent(e) { var keycode; var keyName=''; if(window.event) {if(e.ctrlKey){return false ; } else {return true; }            } return true; } </script> <span style='display:none;' id='myIp'></span><span style='display:none;' id='S1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><div id='toc' style='visibility=hidden;' oncopy='retuns false;'>
+
+<div align="center">
+  <center>
+  <table width="580" border="1" cellspacing="0" cellpadding="0" height="1">
+    <col width="195" style="mso-width-source:userset;mso-width-alt:7131;width:146pt">
+    <col width="39" span="12" style="mso-width-source:userset;mso-width-alt:1426;
+ width:29pt">
+    <tr height="17" style="height:12.75pt">
+      <td colspan="13" height="1" class="Header1" width="663" style="width: 494pt">
+        <p style="margin-left: 3; margin-right: 3" align="center"><font face="Verdana" size="2">State-wise
+        Sex Ratio (Female per 1000 Males) in India<br>
+        </font><font face="Verdana" size="1">{As per 1901 to 2011 Census}</font></p>
+      </td>
+    </tr>
+    <tr height="17" style="height:12.75pt">
+      <td rowspan="2" height="1" class="Header2" width="195" style="width: 146pt">
+        <p style="margin-left: 3; margin-right: 3" align="left"><font size="1" face="Verdana">States/UTs</font></p>
+      </td>
+      <td colspan="12" class="Header2" width="468" style="width: 348pt" height="14">
+        <p style="margin-left: 3; margin-right: 3" align="center"><font size="1" face="Verdana">Census
+        year</font></p>
+      </td>
+    </tr>
+    <tr height="17" style="height:12.75pt">
+      <td height="1" class="Header2" width="39" style="width: 29pt">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1901</font></p>
+      </td>
+      <td class="Header2" width="39" style="width: 29pt" u1:num height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1911</font></p>
+      </td>
+      <td class="Header2" width="39" style="width: 29pt" u1:num height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1921</font></p>
+      </td>
+      <td class="Header2" width="39" style="width: 29pt" u1:num height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1931</font></p>
+      </td>
+      <td class="Header2" width="39" style="width: 29pt" u1:num height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1941</font></p>
+      </td>
+      <td class="Header2" width="39" style="width: 29pt" u1:num height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1951</font></p>
+      </td>
+      <td class="Header2" width="39" style="width: 29pt" u1:num height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1961</font></p>
+      </td>
+      <td class="Header2" width="39" style="width: 29pt" u1:num height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1971</font></p>
+      </td>
+      <td class="Header2" width="39" style="width: 29pt" u1:num height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1981</font></p>
+      </td>
+      <td class="Header2" width="39" style="width: 29pt" u1:num height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1991</font></p>
+      </td>
+      <td class="Header2" width="39" style="width: 29pt" u1:num height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">2001</font></p>
+      </td>
+      <td class="Header2" width="39" style="width: 29pt" u1:num height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">2011</font></p>
+      </td>
+    </tr>
+    <tr height="17" style="height:12.75pt">
+      <td height="1" class="xl66">
+        <p style="margin-left: 3; margin-right: 3" align="left"><font size="1" face="Verdana">Andhra
+        Pradesh</font></p>
+      </td>
+      <td class="Column_Color" height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">985</font></p>
+      </td>
+      <td class="xl72" height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">992</font></p>
+      </td>
+      <td class="Column_Color" height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">993</font></p>
+      </td>
+      <td class="xl72" height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">987</font></p>
+      </td>
+      <td class="Column_Color" height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">980</font></p>
+      </td>
+      <td class="xl72" height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">986</font></p>
+      </td>
+      <td class="Column_Color" height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">981</font></p>
+      </td>
+      <td class="xl72" height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">977</font></p>
+      </td>
+      <td class="Column_Color" height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">975</font></p>
+      </td>
+      <td class="xl72" height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">972</font></p>
+      </td>
+      <td class="Column_Color" height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">978</font></p>
+      </td>
+      <td class="xl74" height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">993</font></p>
+      </td>
+    </tr>
+    <tr height="17" style="height:12.75pt">
+      <td height="26" class="xl66">
+        <p style="margin-left: 3; margin-right: 3" align="left"><font size="1" face="Verdana">Andama
+        &amp; Nicobar Islands</font></p>
+      </td>
+      <td class="Column_Color" height="26">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">318</font></p>
+      </td>
+      <td class="xl72" height="26">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">352</font></p>
+      </td>
+      <td class="Column_Color" height="26">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">303</font></p>
+      </td>
+      <td class="xl72" height="26">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">495</font></p>
+      </td>
+      <td class="Column_Color" height="26">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">575</font></p>
+      </td>
+      <td class="xl72" height="26">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">625</font></p>
+      </td>
+      <td class="Column_Color" height="26">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">617</font></p>
+      </td>
+      <td class="xl72" height="26">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">644</font></p>
+      </td>
+      <td class="Column_Color" height="26">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">760</font></p>
+      </td>
+      <td class="xl72" height="26">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">818</font></p>
+      </td>
+      <td class="Column_Color" height="26">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">846</font></p>
+      </td>
+      <td class="xl74" height="26">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">876</font></p>
+      </td>
+    </tr>
+    <tr height="17" style="height:12.75pt">
+      <td height="1" class="xl66">
+        <p style="margin-left: 3; margin-right: 3" align="left"><font size="1" face="Verdana">Arunachal
+        Pradesh<span style="mso-spacerun:yes">&nbsp;</span></font></p>
+      </td>
+      <td class="Column_Color" height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">-</font></p>
+      </td>
+      <td class="xl72" height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">-</font></p>
+      </td>
+      <td class="Column_Color" height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">-</font></p>
+      </td>
+      <td class="xl72" height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">-</font></p>
+      </td>
+      <td class="Column_Color" height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">-</font></p>
+      </td>
+      <td class="xl72" height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">-</font></p>
+      </td>
+      <td class="Column_Color" height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">894</font></p>
+      </td>
+      <td class="xl72" height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">861</font></p>
+      </td>
+      <td class="Column_Color" height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">862</font></p>
+      </td>
+      <td class="xl72" height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">859</font></p>
+      </td>
+      <td class="Column_Color" height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">893</font></p>
+      </td>
+      <td class="xl74" height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">938</font></p>
+      </td>
+    </tr>
+    <tr height="17" style="height:12.75pt">
+      <td height="15" class="xl66">
+        <p style="margin-left: 3; margin-right: 3" align="left"><font size="1" face="Verdana">Assam<span style="mso-spacerun:yes">&nbsp;</span></font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">919</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">915</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">896</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">874</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">875</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">868</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">869</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">896</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">910</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">923</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">935</font></p>
+      </td>
+      <td class="xl74" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">958</font></p>
+      </td>
+    </tr>
+    <tr height="17" style="height:12.75pt">
+      <td height="15" class="xl66">
+        <p style="margin-left: 3; margin-right: 3" align="left"><font size="1" face="Verdana">Bihar</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1061</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1051</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1020</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">995</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1002</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1000</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1005</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">957</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">948</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">907</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">919</font></p>
+      </td>
+      <td class="xl74" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">918</font></p>
+      </td>
+    </tr>
+    <tr height="17" style="height:12.75pt">
+      <td height="15" class="xl66">
+        <p style="margin-left: 3; margin-right: 3" align="left"><font size="1" face="Verdana">Chandigarh</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">771</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">720</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">743</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">751</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">763</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">781</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">652</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">749</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">769</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">790</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">777</font></p>
+      </td>
+      <td class="xl74" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">818</font></p>
+      </td>
+    </tr>
+    <tr height="17" style="height:12.75pt">
+      <td height="15" class="xl66">
+        <p style="margin-left: 3; margin-right: 3" align="left"><font size="1" face="Verdana">Chhattisgarh<span style="mso-spacerun:yes">&nbsp;</span></font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1046</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1039</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1041</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1043</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1032</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1024</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1008</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">998</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">996</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">985</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">989</font></p>
+      </td>
+      <td class="xl74" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">991</font></p>
+      </td>
+    </tr>
+    <tr height="17" style="height:12.75pt">
+      <td height="26" class="xl66">
+        <p style="margin-left: 3; margin-right: 3" align="left"><font size="1" face="Verdana">Dadra
+        &amp; Nagar Haveli</font></p>
+      </td>
+      <td class="Column_Color" height="26">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">960</font></p>
+      </td>
+      <td class="xl72" height="26">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">967</font></p>
+      </td>
+      <td class="Column_Color" height="26">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">940</font></p>
+      </td>
+      <td class="xl72" height="26">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">911</font></p>
+      </td>
+      <td class="Column_Color" height="26">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">925</font></p>
+      </td>
+      <td class="xl72" height="26">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">946</font></p>
+      </td>
+      <td class="Column_Color" height="26">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">963</font></p>
+      </td>
+      <td class="xl72" height="26">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1007</font></p>
+      </td>
+      <td class="Column_Color" height="26">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">974</font></p>
+      </td>
+      <td class="xl72" height="26">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">952</font></p>
+      </td>
+      <td class="Column_Color" height="26">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">812</font></p>
+      </td>
+      <td class="xl74" height="26">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">774</font></p>
+      </td>
+    </tr>
+    <tr height="17" style="height:12.75pt">
+      <td height="15" class="xl66">
+        <p style="margin-left: 3; margin-right: 3" align="left"><font size="1" face="Verdana">Daman
+        &amp; Diu</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">995</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1040</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1143</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1088</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1080</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1125</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1169</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1099</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1062</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">969</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">710</font></p>
+      </td>
+      <td class="xl74" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">618</font></p>
+      </td>
+    </tr>
+    <tr height="17" style="height:12.75pt">
+      <td height="15" class="xl66">
+        <p style="margin-left: 3; margin-right: 3" align="left"><font size="1" face="Verdana">Delhi</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">862</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">793</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">733</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">722</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">715</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">768</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">785</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">801</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">808</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">827</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">821</font></p>
+      </td>
+      <td class="xl74" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">868</font></p>
+      </td>
+    </tr>
+    <tr height="17" style="height:12.75pt">
+      <td height="15" class="xl66">
+        <p style="margin-left: 3; margin-right: 3" align="left"><font size="1" face="Verdana">Goa</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1091</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1108</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1120</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1088</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1084</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1128</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1066</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">981</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">975</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">967</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">961</font></p>
+      </td>
+      <td class="xl74" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">973</font></p>
+      </td>
+    </tr>
+    <tr height="17" style="height:12.75pt">
+      <td height="15" class="xl66">
+        <p style="margin-left: 3; margin-right: 3" align="left"><font size="1" face="Verdana">Gujarat</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">954</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">946</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">944</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">945</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">941</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">952</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">940</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">934</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">942</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">934</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">920</font></p>
+      </td>
+      <td class="xl74" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">919</font></p>
+      </td>
+    </tr>
+    <tr height="17" style="height:12.75pt">
+      <td height="15" class="xl66">
+        <p style="margin-left: 3; margin-right: 3" align="left"><font size="1" face="Verdana">Haryana</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">867</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">835</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">844</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">844</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">869</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">871</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">868</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">867</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">870</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">865</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">861</font></p>
+      </td>
+      <td class="xl74" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">879</font></p>
+      </td>
+    </tr>
+    <tr height="17" style="height:12.75pt">
+      <td height="1" class="xl66">
+        <p style="margin-left: 3; margin-right: 3" align="left"><font size="1" face="Verdana">Himachal
+        Pradesh</font></p>
+      </td>
+      <td class="Column_Color" height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">884</font></p>
+      </td>
+      <td class="xl72" height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">889</font></p>
+      </td>
+      <td class="Column_Color" height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">890</font></p>
+      </td>
+      <td class="xl72" height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">897</font></p>
+      </td>
+      <td class="Column_Color" height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">890</font></p>
+      </td>
+      <td class="xl72" height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">912</font></p>
+      </td>
+      <td class="Column_Color" height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">938</font></p>
+      </td>
+      <td class="xl72" height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">958</font></p>
+      </td>
+      <td class="Column_Color" height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">973</font></p>
+      </td>
+      <td class="xl72" height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">976</font></p>
+      </td>
+      <td class="Column_Color" height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">968</font></p>
+      </td>
+      <td class="xl74" height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">972</font></p>
+      </td>
+    </tr>
+    <tr height="17" style="height:12.75pt">
+      <td height="1" class="xl66">
+        <p style="margin-left: 3; margin-right: 3" align="left"><font size="1" face="Verdana">Jammu
+        &amp; Kashmir<span style="mso-spacerun:yes">&nbsp;</span></font></p>
+      </td>
+      <td class="Column_Color" height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">882</font></p>
+      </td>
+      <td class="xl72" height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">876</font></p>
+      </td>
+      <td class="Column_Color" height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">870</font></p>
+      </td>
+      <td class="xl72" height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">865</font></p>
+      </td>
+      <td class="Column_Color" height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">869</font></p>
+      </td>
+      <td class="xl72" height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">873</font></p>
+      </td>
+      <td class="Column_Color" height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">878</font></p>
+      </td>
+      <td class="xl72" height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">878</font></p>
+      </td>
+      <td class="Column_Color" height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">892</font></p>
+      </td>
+      <td class="xl72" height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">896</font></p>
+      </td>
+      <td class="Column_Color" height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">892</font></p>
+      </td>
+      <td class="xl74" height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">889</font></p>
+      </td>
+    </tr>
+    <tr height="17" style="height:12.75pt">
+      <td height="15" class="xl66">
+        <p style="margin-left: 3; margin-right: 3" align="left"><font size="1" face="Verdana">Jharkhand<span style="mso-spacerun:yes">&nbsp;</span></font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1032</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1021</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1002</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">989</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">978</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">961</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">960</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">945</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">940</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">922</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">941</font></p>
+      </td>
+      <td class="xl74" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">948</font></p>
+      </td>
+    </tr>
+    <tr height="17" style="height:12.75pt">
+      <td height="15" class="xl66">
+        <p style="margin-left: 3; margin-right: 3" align="left"><font size="1" face="Verdana">Karnataka</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">983</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">981</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">969</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">965</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">960</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">966</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">959</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">957</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">963</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">960</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">965</font></p>
+      </td>
+      <td class="xl74" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">973</font></p>
+      </td>
+    </tr>
+    <tr height="17" style="height:12.75pt">
+      <td height="15" class="xl66">
+        <p style="margin-left: 3; margin-right: 3" align="left"><font size="1" face="Verdana">Kerala</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1004</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1008</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1011</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1022</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1027</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1028</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1022</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1016</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1032</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1036</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1058</font></p>
+      </td>
+      <td class="xl74" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1084</font></p>
+      </td>
+    </tr>
+    <tr height="17" style="height:12.75pt">
+      <td height="15" class="xl66">
+        <p style="margin-left: 3; margin-right: 3" align="left"><font size="1" face="Verdana">Lakshadweep</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1063</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">987</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1027</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">994</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1018</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1043</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1020</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">978</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">975</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">943</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">948</font></p>
+      </td>
+      <td class="xl74" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">946</font></p>
+      </td>
+    </tr>
+    <tr height="17" style="height:12.75pt">
+      <td height="1" class="xl66">
+        <p style="margin-left: 3; margin-right: 3" align="left"><font size="1" face="Verdana">Madhya
+        Pradesh</font></p>
+      </td>
+      <td class="Column_Color" height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">972</font></p>
+      </td>
+      <td class="xl72" height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">967</font></p>
+      </td>
+      <td class="Column_Color" height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">949</font></p>
+      </td>
+      <td class="xl72" height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">947</font></p>
+      </td>
+      <td class="Column_Color" height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">946</font></p>
+      </td>
+      <td class="xl72" height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">945</font></p>
+      </td>
+      <td class="Column_Color" height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">932</font></p>
+      </td>
+      <td class="xl72" height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">920</font></p>
+      </td>
+      <td class="Column_Color" height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">921</font></p>
+      </td>
+      <td class="xl72" height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">912</font></p>
+      </td>
+      <td class="Column_Color" height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">919</font></p>
+      </td>
+      <td class="xl74" height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">931</font></p>
+      </td>
+    </tr>
+    <tr height="17" style="height:12.75pt">
+      <td height="15" class="xl66">
+        <p style="margin-left: 3; margin-right: 3" align="left"><font size="1" face="Verdana">Maharashtra</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">978</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">966</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">950</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">947</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">949</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">941</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">936</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">930</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">937</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">934</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">922</font></p>
+      </td>
+      <td class="xl74" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">929</font></p>
+      </td>
+    </tr>
+    <tr height="17" style="height:12.75pt">
+      <td height="15" class="xl66">
+        <p style="margin-left: 3; margin-right: 3" align="left"><font size="1" face="Verdana">Manipur<span style="mso-spacerun:yes">&nbsp;</span></font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1037</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1029</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1041</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1065</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1055</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1036</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1015</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">980</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">971</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">958</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">974</font></p>
+      </td>
+      <td class="xl74" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">992</font></p>
+      </td>
+    </tr>
+    <tr height="17" style="height:12.75pt">
+      <td height="15" class="xl66">
+        <p style="margin-left: 3; margin-right: 3" align="left"><font size="1" face="Verdana">Meghalaya</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1036</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1013</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1000</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">971</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">966</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">949</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">937</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">942</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">954</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">955</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">972</font></p>
+      </td>
+      <td class="xl74" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">989</font></p>
+      </td>
+    </tr>
+    <tr height="17" style="height:12.75pt">
+      <td height="15" class="xl66">
+        <p style="margin-left: 3; margin-right: 3" align="left"><font size="1" face="Verdana">Mizoram</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1113</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1120</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1109</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1102</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1069</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1041</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1009</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">946</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">919</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">921</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">935</font></p>
+      </td>
+      <td class="xl74" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">976</font></p>
+      </td>
+    </tr>
+    <tr height="17" style="height:12.75pt">
+      <td height="15" class="xl66">
+        <p style="margin-left: 3; margin-right: 3" align="left"><font size="1" face="Verdana">Nagaland<span style="mso-spacerun:yes">&nbsp;</span></font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">973</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">993</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">992</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">997</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1021</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">999</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">933</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">871</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">863</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">886</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">900</font></p>
+      </td>
+      <td class="xl74" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">931</font></p>
+      </td>
+    </tr>
+    <tr height="17" style="height:12.75pt">
+      <td height="15" class="xl66">
+        <p style="margin-left: 3; margin-right: 3" align="left"><font size="1" face="Verdana">Odisha</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1037</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1056</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1086</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1067</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1053</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1022</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1001</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">988</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">981</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">971</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">972</font></p>
+      </td>
+      <td class="xl74" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">979</font></p>
+      </td>
+    </tr>
+    <tr height="17" style="height:12.75pt">
+      <td height="15" class="xl66">
+        <p style="margin-left: 3; margin-right: 3" align="left"><font size="1" face="Verdana">Puducherry</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">-</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1058</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1053</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">-</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">-</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1030</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1013</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">989</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">985</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">979</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1001</font></p>
+      </td>
+      <td class="xl74" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1037</font></p>
+      </td>
+    </tr>
+    <tr height="17" style="height:12.75pt">
+      <td height="15" class="xl66">
+        <p style="margin-left: 3; margin-right: 3" align="left"><font size="1" face="Verdana">Punjab</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">832</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">780</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">799</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">815</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">836</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">844</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">854</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">865</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">879</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">882</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">876</font></p>
+      </td>
+      <td class="xl74" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">895</font></p>
+      </td>
+    </tr>
+    <tr height="17" style="height:12.75pt">
+      <td height="15" class="xl66">
+        <p style="margin-left: 3; margin-right: 3" align="left"><font size="1" face="Verdana">Rajasthan</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">905</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">908</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">896</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">907</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">906</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">921</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">908</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">911</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">919</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">910</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">921</font></p>
+      </td>
+      <td class="xl74" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">928</font></p>
+      </td>
+    </tr>
+    <tr height="17" style="height:12.75pt">
+      <td height="15" class="xl66">
+        <p style="margin-left: 3; margin-right: 3" align="left"><font size="1" face="Verdana">Sikkim</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">916</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">951</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">970</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">967</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">920</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">907</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">904</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">863</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">835</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">878</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">875</font></p>
+      </td>
+      <td class="xl74" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">890</font></p>
+      </td>
+    </tr>
+    <tr height="17" style="height:12.75pt">
+      <td height="15" class="xl66">
+        <p style="margin-left: 3; margin-right: 3" align="left"><font size="1" face="Verdana">Tamil
+        Nadu</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1044</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1042</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1029</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1027</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1012</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">1007</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">992</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">978</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">977</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">974</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">987</font></p>
+      </td>
+      <td class="xl74" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">996</font></p>
+      </td>
+    </tr>
+    <tr height="17" style="height:12.75pt">
+      <td height="15" class="xl66">
+        <p style="margin-left: 3; margin-right: 3" align="left"><font size="1" face="Verdana">Tripura</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">874</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">885</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">885</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">885</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">886</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">904</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">932</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">943</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">946</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">945</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">948</font></p>
+      </td>
+      <td class="xl74" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">960</font></p>
+      </td>
+    </tr>
+    <tr height="17" style="height:12.75pt">
+      <td height="15" class="xl66">
+        <p style="margin-left: 3; margin-right: 3" align="left"><font size="1" face="Verdana">Uttar
+        Pradesh</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">938</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">916</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">908</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">903</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">907</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">908</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">947</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">940</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">936</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">936</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">962</font></p>
+      </td>
+      <td class="xl74" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">963</font></p>
+      </td>
+    </tr>
+    <tr height="17" style="height:12.75pt">
+      <td height="15" class="xl66">
+        <p style="margin-left: 3; margin-right: 3" align="left"><font size="1" face="Verdana">Uttarakhand</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">918</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">907</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">916</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">913</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">907</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">940</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">907</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">876</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">882</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">876</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">898</font></p>
+      </td>
+      <td class="xl74" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">912</font></p>
+      </td>
+    </tr>
+    <tr height="17" style="height:12.75pt">
+      <td height="15" class="xl66">
+        <p style="margin-left: 3; margin-right: 3" align="left"><font size="1" face="Verdana">West
+        Bengal</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">945</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">925</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">905</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">890</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">852</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">865</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">878</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">891</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">911</font></p>
+      </td>
+      <td class="xl72" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">917</font></p>
+      </td>
+      <td class="Column_Color" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">934</font></p>
+      </td>
+      <td class="xl74" height="15">
+        <p style="margin-left: 3; margin-right: 3" align="right"><font size="1" face="Verdana">950</font></p>
+      </td>
+    </tr>
+    <tr height="17" style="height:12.75pt">
+      <td height="1" class="xl67">
+        <p style="margin-left: 3; margin-right: 3" align="left"><b><font size="1" face="Verdana">India</font></b></p>
+      </td>
+      <td class="Column_Color" height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><b><font size="1" face="Verdana">972</font></b></p>
+      </td>
+      <td class="xl71" height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><b><font size="1" face="Verdana">964</font></b></p>
+      </td>
+      <td class="Column_Color" height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><b><font size="1" face="Verdana">955</font></b></p>
+      </td>
+      <td class="xl71" height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><b><font size="1" face="Verdana">950</font></b></p>
+      </td>
+      <td class="Column_Color" height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><b><font size="1" face="Verdana">945</font></b></p>
+      </td>
+      <td class="xl71" height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><b><font size="1" face="Verdana">946</font></b></p>
+      </td>
+      <td class="Column_Color" height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><b><font size="1" face="Verdana">941</font></b></p>
+      </td>
+      <td class="xl71" height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><b><font size="1" face="Verdana">930</font></b></p>
+      </td>
+      <td class="Column_Color" height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><b><font size="1" face="Verdana">934</font></b></p>
+      </td>
+      <td class="xl71" height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><b><font size="1" face="Verdana">927</font></b></p>
+      </td>
+      <td class="Column_Color" height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><b><font size="1" face="Verdana">933</font></b></p>
+      </td>
+      <td class="xl73" height="1">
+        <p style="margin-left: 3; margin-right: 3" align="right"><b><font size="1" face="Verdana">943</font></b></p>
+      </td>
+    </tr>
+  </table>
+  </center>
+</div>
+<p style="margin-left: 80; margin-right: 40" class="Footer"><font size="1" face="Verdana">
+Note
+: 1. For working out the sex ratio of India and Assam for 1981,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+interpolated figures for Assam have been used.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. For working out the
+sex ratio of India and Jammu and Kashmir<span style="mso-spacerun: yes"><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>for
+1991, interpolated figures for Jammu and Kashmir have<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+been used.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. For working out the
+sex ratio of India, Gujarat and Himachal<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Pradesh for 2001, estimated figures for affected areas of Gujarat<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+and Himachal Pradesh have been used.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4. The sex ratio for Arunachal
+Pradesh is not available for the years<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+1901-1951 and for Puducherry it is not available for the years 1901,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 1931
+and 1941.</font><font color="#808080" face="Verdana" size="1"><br>
+Source : Office of the Registrar General and Census Commissioner, India. (ON402)<br>
+<br>
+</font>
+  </div>   </body></html>

@@ -1,0 +1,1217 @@
+<html><head>  <meta charset="UTF-8" />    <style type="text/css">.table{border-collapse:collapse;table-layout:fixed;border-spacing:0;empty-cells:show; align="center"} .X0{color:rgb(255,255,255);font-family:Verdana;font-size:10pt;background-color:#005195;border-top-color:000000;border-top-style:solid;border-top:1px solid black;border-bottom-color:000000;border-bottom-style:solid;border-bottom:1px solid black;border-left-color:000000;border-left-style:solid;border-left:1px solid black;border-right-color:000000;border-right-style:solid;border-right:1px solid black;font-weight:bold;vertical-align:top;text-align:center;word-wrap:break-word;height:51;} .X1{color:rgb(0,0,0);font-family:Verdana;font-size:8pt;background-color:#8BC4F3;border-top-color:000000;border-top-style:solid;border-top:1px solid black;border-bottom-color:000000;border-bottom-style:solid;border-bottom:1px solid black;border-left-color:000000;border-left-style:solid;border-left:1px solid black;border-right-color:000000;border-right-style:solid;border-right:1px solid black;padding-left:5px;padding-right:5px;27px;font-weight:bold;vertical-align:center;text-align:right;word-wrap:break-word;height:22;} .X2{color:rgb(0,0,0);font-family:Verdana;font-size:8pt;background-color:#8BC4F3;border-top-color:000000;border-top-style:solid;border-top:1px solid black;border-bottom-color:000000;border-bottom-style:solid;border-bottom:1px solid black;border-left-color:000000;border-left-style:solid;border-left:1px solid black;border-right-color:000000;border-right-style:solid;border-right:1px solid black;padding-left:5px;padding-right:5px;27px;font-weight:bold;vertical-align:center;text-align:left;word-wrap:break-word;height:30;} .X3{color:rgb(0,0,0);font-family:Verdana;font-size:8pt;background-color:#8BC4F3;border-top-color:000000;border-top-style:solid;border-top:1px solid black;border-bottom-color:000000;border-bottom-style:solid;border-bottom:1px solid black;border-left-color:000000;border-left-style:solid;border-left:1px solid black;border-right-color:000000;border-right-style:solid;border-right:1px solid black;padding-left:5px;padding-right:5px;27px;font-weight:bold;vertical-align:center;text-align:right;word-wrap:break-word;height:30;} .X4{color:rgb(0,0,0);font-family:Verdana;font-size:8pt;background-color:rgb(255,255,255);border-top-color:000000;border-top-style:solid;border-top:1px solid black;border-bottom-color:000000;border-bottom-style:solid;border-bottom:1px solid black;border-left-color:000000;border-left-style:solid;border-left:1px solid black;border-right-color:000000;border-right-style:solid;border-right:1px solid black;padding-left:5px;padding-right:5px;27px;vertical-align:center;text-align:left;word-wrap:break-word;height:30;} .X5{color:rgb(0,0,0);font-family:Verdana;font-size:8pt;background-color:#DFF0FF;border-top-color:000000;border-top-style:solid;border-top:1px solid black;border-bottom-color:000000;border-bottom-style:solid;border-bottom:1px solid black;border-left-color:000000;border-left-style:solid;border-left:1px solid black;border-right-color:000000;border-right-style:solid;border-right:1px solid black;padding-left:5px;padding-right:5px;27px;vertical-align:center;text-align:right;word-wrap:break-word;height:30;} .X6{color:rgb(0,0,0);font-family:Verdana;font-size:8pt;background-color:rgb(255,255,255);border-top-color:000000;border-top-style:solid;border-top:1px solid black;border-bottom-color:000000;border-bottom-style:solid;border-bottom:1px solid black;border-left-color:000000;border-left-style:solid;border-left:1px solid black;border-right-color:000000;border-right-style:solid;border-right:1px solid black;padding-left:5px;padding-right:5px;27px;vertical-align:center;text-align:right;word-wrap:break-word;height:30;} .X7{color:rgb(51,51,51);font-family:Verdana;font-size:8pt;background-color:rgb(255,255,255);border-top-color:000000;border-top-style:solid;border-top:1px solid black;border-bottom-color:000000;border-bottom-style:solid;border-bottom:1px solid black;border-left-color:000000;border-left-style:solid;border-left:1px solid black;border-right-color:000000;border-right-style:solid;border-right:1px solid black;padding-left:5px;padding-right:5px;27px;vertical-align:center;text-align:right;word-wrap:break-word;height:30;} .X8{color:rgb(51,51,51);font-family:Verdana;font-size:8pt;background-color:#DFF0FF;border-top-color:000000;border-top-style:solid;border-top:1px solid black;border-bottom-color:000000;border-bottom-style:solid;border-bottom:1px solid black;border-left-color:000000;border-left-style:solid;border-left:1px solid black;border-right-color:000000;border-right-style:solid;border-right:1px solid black;padding-left:5px;padding-right:5px;27px;vertical-align:center;text-align:right;word-wrap:break-word;height:30;} .X9{color:rgb(0,0,0);font-family:Verdana;font-size:8pt;background-color:rgb(255,255,255);border-top-color:000000;border-top-style:solid;border-top:1px solid black;border-bottom-color:000000;border-bottom-style:solid;border-bottom:1px solid black;border-left-color:000000;border-left-style:solid;border-left:1px solid black;border-right-color:000000;border-right-style:solid;border-right:1px solid black;padding-left:5px;padding-right:5px;27px;vertical-align:center;text-align:left;word-wrap:break-word;height:16;} .X10{color:rgb(0,0,0);font-family:Verdana;font-size:8pt;background-color:#DFF0FF;border-top-color:000000;border-top-style:solid;border-top:1px solid black;border-bottom-color:000000;border-bottom-style:solid;border-bottom:1px solid black;border-left-color:000000;border-left-style:solid;border-left:1px solid black;border-right-color:000000;border-right-style:solid;border-right:1px solid black;padding-left:5px;padding-right:5px;27px;vertical-align:center;text-align:right;word-wrap:break-word;height:16;} .X11{color:rgb(0,0,0);font-family:Verdana;font-size:8pt;background-color:rgb(255,255,255);border-top-color:000000;border-top-style:solid;border-top:1px solid black;border-bottom-color:000000;border-bottom-style:solid;border-bottom:1px solid black;border-left-color:000000;border-left-style:solid;border-left:1px solid black;border-right-color:000000;border-right-style:solid;border-right:1px solid black;padding-left:5px;padding-right:5px;27px;vertical-align:center;text-align:right;word-wrap:break-word;height:16;} .X12{color:rgb(51,51,51);font-family:Verdana;font-size:8pt;background-color:rgb(255,255,255);border-top-color:000000;border-top-style:solid;border-top:1px solid black;border-bottom-color:000000;border-bottom-style:solid;border-bottom:1px solid black;border-left-color:000000;border-left-style:solid;border-left:1px solid black;border-right-color:000000;border-right-style:solid;border-right:1px solid black;padding-left:5px;padding-right:5px;27px;vertical-align:center;text-align:right;word-wrap:break-word;height:16;} .X13{color:rgb(51,51,51);font-family:Verdana;font-size:8pt;background-color:#DFF0FF;border-top-color:000000;border-top-style:solid;border-top:1px solid black;border-bottom-color:000000;border-bottom-style:solid;border-bottom:1px solid black;border-left-color:000000;border-left-style:solid;border-left:1px solid black;border-right-color:000000;border-right-style:solid;border-right:1px solid black;padding-left:5px;padding-right:5px;27px;vertical-align:center;text-align:right;word-wrap:break-word;height:16;} .X14{color:rgb(0,0,0);font-family:Verdana;font-size:8pt;background-color:rgb(255,255,255);border-top-color:000000;border-top-style:solid;border-top:1px solid black;border-bottom-color:000000;border-bottom-style:solid;border-bottom:1px solid black;border-left-color:000000;border-left-style:solid;border-left:1px solid black;border-right-color:000000;border-right-style:solid;border-right:1px solid black;padding-left:5px;padding-right:5px;27px;font-weight:bold;vertical-align:center;text-align:left;word-wrap:break-word;height:16;} .X15{color:rgb(0,0,0);font-family:Verdana;font-size:8pt;background-color:#DFF0FF;border-top-color:000000;border-top-style:solid;border-top:1px solid black;border-bottom-color:000000;border-bottom-style:solid;border-bottom:1px solid black;border-left-color:000000;border-left-style:solid;border-left:1px solid black;border-right-color:000000;border-right-style:solid;border-right:1px solid black;padding-left:5px;padding-right:5px;27px;font-weight:bold;vertical-align:center;text-align:right;word-wrap:break-word;height:16;} .X16{color:rgb(0,0,0);font-family:Verdana;font-size:8pt;background-color:rgb(255,255,255);border-top-color:000000;border-top-style:solid;border-top:1px solid black;border-bottom-color:000000;border-bottom-style:solid;border-bottom:1px solid black;border-left-color:000000;border-left-style:solid;border-left:1px solid black;border-right-color:000000;border-right-style:solid;border-right:1px solid black;padding-left:5px;padding-right:5px;27px;font-weight:bold;vertical-align:center;text-align:right;word-wrap:break-word;height:16;} .X17{color:rgb(51,51,51);font-family:Verdana;font-size:8pt;background-color:rgb(255,255,255);border-top-color:000000;border-top-style:solid;border-top:1px solid black;border-bottom-color:000000;border-bottom-style:solid;border-bottom:1px solid black;border-left-color:000000;border-left-style:solid;border-left:1px solid black;border-right-color:000000;border-right-style:solid;border-right:1px solid black;padding-left:5px;padding-right:5px;27px;font-weight:bold;vertical-align:center;text-align:right;word-wrap:break-word;height:16;} .X18{color:rgb(51,51,51);font-family:Verdana;font-size:8pt;background-color:#DFF0FF;border-top-color:000000;border-top-style:solid;border-top:1px solid black;border-bottom-color:000000;border-bottom-style:solid;border-bottom:1px solid black;border-left-color:000000;border-left-style:solid;border-left:1px solid black;border-right-color:000000;border-right-style:solid;border-right:1px solid black;padding-left:5px;padding-right:5px;27px;font-weight:bold;vertical-align:center;text-align:right;word-wrap:break-word;height:16;} .X19{color:rgb(0,0,0);font-family:Calibri;font-size:11pt;background-color:rgb(255,255,255);border-top-color:C0C0C0;border-top-style:solid;border-top:1px solid black;vertical-align:center;text-align:left;word-wrap:break-word;height:16;} .X20{color:rgb(0,0,0);font-family:Calibri;font-size:11pt;background-color:rgb(255,255,255);border-top-color:000000;border-top-style:solid;border-top:1px solid black;vertical-align:bottom;text-align:general;word-wrap:break-word;height:16;} .X21{color:rgb(128,128,128);font-family:Verdana;font-size:8pt;background-color:rgb(255,255,255);vertical-align:center;text-align:left;word-wrap:break-word;height:16;} .X22{color:rgb(0,0,0);font-family:Calibri;font-size:11pt;background-color:rgb(255,255,255);vertical-align:center;text-align:left;word-wrap:break-word;height:16;} .X23{color:rgb(0,0,0);font-family:Calibri;font-size:11pt;background-color:rgb(255,255,255);vertical-align:bottom;text-align:general;word-wrap:break-word;height:16;} .X24{color:rgb(0,0,0);font-family:Calibri;font-size:11pt;background-color:rgb(255,255,255);vertical-align:center;text-align:left;word-wrap:break-word;height:20;} .X25{color:rgb(0,0,0);font-family:Calibri;font-size:11pt;background-color:rgb(255,255,255);vertical-align:bottom;text-align:general;word-wrap:break-word;height:20;}</style></head><body></style>             
+<table class="table" align="center" cellspacing="0">      <colgroup><col width="143" />      <col width="92" />      <col width="92" />      <col width="92" />      <col width="92" />      <col width="92" />      <col width="92" />      <col width="92" />      <col width="92" />      <col width="92" />      <col width="92" />      <col width="101" />      </colgroup>
+<tbody>
+<tr>        
+<td colspan="12" class="X0">State-wise&nbsp;Number&nbsp;of&nbsp;Estimated&nbsp;Employment&nbsp;Generated&nbsp;under&nbsp;Prime&nbsp;<br />
+Minister&nbsp;Employment&nbsp;Generation&nbsp;Programme&nbsp;(PMEGP)&nbsp;in&nbsp;India&nbsp;<br />
+<span style="font-size: 8pt;">(2008-2009&nbsp;to&nbsp;2018-2019-upto&nbsp;30.06.2018&nbsp;)</span></td>      </tr>      
+<tr>        
+<td colspan="12" class="X1">(No.&nbsp;of&nbsp;Person)</td>      </tr>      
+<tr>        
+<td class="X2">          
+<p "width:143"="" style="margin:0px;">States/UTs</p>        </td>        
+<td class="X3">          
+<p "width:92"="" style="margin:0px;">2008-2009</p>        </td>        
+<td class="X3">          
+<p "width:92"="" style="margin:0px;">2009-2010</p>        </td>        
+<td class="X3">          
+<p "width:92"="" style="margin:0px;">2010-2011</p>        </td>        
+<td class="X3">          
+<p "width:92"="" style="margin:0px;">2011-2012</p>        </td>        
+<td class="X3">          
+<p "width:92"="" style="margin:0px;">2012-2013</p>        </td>        
+<td class="X3">          
+<p "width:92"="" style="margin:0px;">2013-2014</p>        </td>        
+<td class="X3">          
+<p "width:92"="" style="margin:0px;">2014-2015</p>        </td>        
+<td class="X3">          
+<p "width:92"="" style="margin:0px;">2015-2016</p>        </td>        
+<td class="X3">          
+<p "width:92"="" style="margin:0px;">2016-2017</p>        </td>        
+<td class="X3">          
+<p "width:92"="" style="margin:0px;">2017-2018</p>        </td>        
+<td class="X3">          
+<p "width:101"="" style="margin:0px;">2018-2019#</p>        </td>      </tr>      
+<tr>        
+<td class="X4">          
+<p "width:143"="" style="margin:0px;">Andaman&nbsp;and Nicobar&nbsp;</p>
+<p "width:143"="" style="margin:0px;">Islands</p>        </td>        
+<td class="X5">          
+<p "width:92"="" style="margin:0px;">181</p>        </td>        
+<td class="X6">          
+<p "width:92"="" style="margin:0px;">398</p>        </td>        
+<td class="X5">          
+<p "width:92"="" style="margin:0px;">573</p>        </td>        
+<td class="X6">          
+<p "width:92"="" style="margin:0px;">552</p>        </td>        
+<td class="X5">          
+<p "width:92"="" style="margin:0px;">939</p>        </td>        
+<td class="X6">          
+<p "width:92"="" style="margin:0px;">887</p>        </td>        
+<td class="X5">          
+<p "width:92"="" style="margin:0px;">790</p>        </td>        
+<td class="X6">          
+<p "width:92"="" style="margin:0px;">293</p>        </td>        
+<td class="X5">          
+<p "width:92"="" style="margin:0px;">1398</p>        </td>        
+<td class="X7">          
+<p "width:92"="" style="margin:0px;">1744</p>        </td>        
+<td class="X8">          
+<p "width:101"="" style="margin:0px;">296</p>        </td>      </tr>      
+<tr>        
+<td class="X9">          
+<p "width:143"="" style="margin:0px;">Andhra&nbsp;Pradesh</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">8172</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">73073</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">53808</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">37336</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">17982</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">18170</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">12220</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">7740</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">14148</p>        </td>        
+<td class="X12">          
+<p "width:92"="" style="margin:0px;">12216</p>        </td>        
+<td class="X13">          
+<p "width:101"="" style="margin:0px;">3136</p>        </td>      </tr>      
+<tr>        
+<td class="X9">          
+<p "width:143"="" style="margin:0px;">Arunachal&nbsp;Pradesh</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">1140</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">1580</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">2320</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">1516</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">2660</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">6570</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">2871</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">104</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">1984</p>        </td>        
+<td class="X12">          
+<p "width:92"="" style="margin:0px;">1672</p>        </td>        
+<td class="X13">          
+<p "width:101"="" style="margin:0px;">832</p>        </td>      </tr>      
+<tr>        
+<td class="X9">          
+<p "width:143"="" style="margin:0px;">Assam</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">7226</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">15280</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">38473</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">44205</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">26161</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">24555</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">15535</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">9026</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">31498</p>        </td>        
+<td class="X12">          
+<p "width:92"="" style="margin:0px;">18256</p>        </td>        
+<td class="X13">          
+<p "width:101"="" style="margin:0px;">8896</p>        </td>      </tr>      
+<tr>        
+<td class="X9">          
+<p "width:143"="" style="margin:0px;">Bihar</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">916</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">5112</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">8316</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">35193</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">19106</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">20043</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">9240</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">19624</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">25872</p>        </td>        
+<td class="X12">          
+<p "width:92"="" style="margin:0px;">18456</p>        </td>        
+<td class="X13">          
+<p "width:101"="" style="margin:0px;">5864</p>        </td>      </tr>      
+<tr>        
+<td class="X9">          
+<p "width:143"="" style="margin:0px;">Chandigarh</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">82</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">185</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">302</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">144</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">239</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">385</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">160</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">323</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">376</p>        </td>        
+<td class="X12">          
+<p "width:92"="" style="margin:0px;">360</p>        </td>        
+<td class="X13">          
+<p "width:101"="" style="margin:0px;">56</p>        </td>      </tr>      
+<tr>        
+<td class="X9">          
+<p "width:143"="" style="margin:0px;">Chhattisgarh</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">6873</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">7410</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">18213</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">10345</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">13734</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">4435</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">5821</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">9496</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">12856</p>        </td>        
+<td class="X12">          
+<p "width:92"="" style="margin:0px;">11704</p>        </td>        
+<td class="X13">          
+<p "width:101"="" style="margin:0px;">6016</p>        </td>      </tr>      
+<tr>        
+<td class="X9">          
+<p "width:143"="" style="margin:0px;">Delhi</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">20</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">850</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">1490</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">906</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">1288</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">1136</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">1584</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">2048</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">952</p>        </td>        
+<td class="X12">          
+<p "width:92"="" style="margin:0px;">920</p>        </td>        
+<td class="X13">          
+<p "width:101"="" style="margin:0px;">40</p>        </td>      </tr>      
+<tr>        
+<td class="X9">          
+<p "width:143"="" style="margin:0px;">Goa</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">0</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">1408</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">2456</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">2467</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">300</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">214</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">406</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">500</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">660</p>        </td>        
+<td class="X12">          
+<p "width:92"="" style="margin:0px;">400</p>        </td>        
+<td class="X13">          
+<p "width:101"="" style="margin:0px;">32</p>        </td>      </tr>      
+<tr>        
+<td class="X9">          
+<p "width:143"="" style="margin:0px;">Gujarat*</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">2945</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">12643</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">16483</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">18662</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">11095</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">13420</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">18107</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">14960</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">11629</p>        </td>        
+<td class="X12">          
+<p "width:92"="" style="margin:0px;">15008</p>        </td>        
+<td class="X13">          
+<p "width:101"="" style="margin:0px;">3632</p>        </td>      </tr>      
+<tr>        
+<td class="X9">          
+<p "width:143"="" style="margin:0px;">Haryana</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">3689</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">4284</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">10508</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">7418</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">7416</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">6352</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">7024</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">7232</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">11016</p>        </td>        
+<td class="X12">          
+<p "width:92"="" style="margin:0px;">13744</p>        </td>        
+<td class="X13">          
+<p "width:101"="" style="margin:0px;">2728</p>        </td>      </tr>      
+<tr>        
+<td class="X9">          
+<p "width:143"="" style="margin:0px;">Himachal&nbsp;Pradesh</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">3165</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">1963</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">4781</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">4248</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">4508</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">5307</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">6352</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">5134</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">6916</p>        </td>        
+<td class="X12">          
+<p "width:92"="" style="margin:0px;">7088</p>        </td>        
+<td class="X13">          
+<p "width:101"="" style="margin:0px;">1016</p>        </td>      </tr>      
+<tr>        
+<td class="X9">          
+<p "width:143"="" style="margin:0px;">Jammu&nbsp;and&nbsp;Kashmir</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">6800</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">17820</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">15360</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">15360</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">17452</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">11818</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">11025</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">12115</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">11691</p>        </td>        
+<td class="X12">          
+<p "width:92"="" style="margin:0px;">30024</p>        </td>        
+<td class="X13">          
+<p "width:101"="" style="margin:0px;">8888</p>        </td>      </tr>      
+<tr>        
+<td class="X9">          
+<p "width:143"="" style="margin:0px;">Jharkhand</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">3486</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">3530</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">15363</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">7116</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">11485</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">13060</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">8495</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">12873</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">10400</p>        </td>        
+<td class="X12">          
+<p "width:92"="" style="margin:0px;">8888</p>        </td>        
+<td class="X13">          
+<p "width:101"="" style="margin:0px;">2464</p>        </td>      </tr>      
+<tr>        
+<td class="X9">          
+<p "width:143"="" style="margin:0px;">Karnataka</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">12740</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">17198</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">14000</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">14971</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">7797</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">25261</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">21825</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">17284</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">30286</p>        </td>        
+<td class="X12">          
+<p "width:92"="" style="margin:0px;">16920</p>        </td>        
+<td class="X13">          
+<p "width:101"="" style="margin:0px;">5560</p>        </td>      </tr>      
+<tr>        
+<td class="X9">          
+<p "width:143"="" style="margin:0px;">Kerala</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">0</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">13675</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">11375</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">9195</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">12396</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">11507</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">9738</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">9653</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">13068</p>        </td>        
+<td class="X12">          
+<p "width:92"="" style="margin:0px;">10776</p>        </td>        
+<td class="X13">          
+<p "width:101"="" style="margin:0px;">3712</p>        </td>      </tr>      
+<tr>        
+<td class="X9">          
+<p "width:143"="" style="margin:0px;">Lakshadweep</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">0</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">62</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">84</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">25</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">0</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">0</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">93</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">0</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">0</p>        </td>        
+<td class="X12">          
+<p "width:92"="" style="margin:0px;">0</p>        </td>        
+<td class="X13">          
+<p "width:101"="" style="margin:0px;">0</p>        </td>      </tr>      
+<tr>        
+<td class="X9">          
+<p "width:143"="" style="margin:0px;">Madhya&nbsp;Pradesh</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">3297</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">12294</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">17467</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">16256</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">26605</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">19449</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">21896</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">16497</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">15520</p>        </td>        
+<td class="X12">          
+<p "width:92"="" style="margin:0px;">14432</p>        </td>        
+<td class="X13">          
+<p "width:101"="" style="margin:0px;">2432</p>        </td>      </tr>      
+<tr>        
+<td class="X9">          
+<p "width:143"="" style="margin:0px;">Maharashtra**</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">13041</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">21961</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">36592</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">24661</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">18112</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">14869</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">28311</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">20161</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">17799</p>        </td>        
+<td class="X12">          
+<p "width:92"="" style="margin:0px;">26632</p>        </td>        
+<td class="X13">          
+<p "width:101"="" style="margin:0px;">8744</p>        </td>      </tr>      
+<tr>        
+<td class="X9">          
+<p "width:143"="" style="margin:0px;">Manipur</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">0</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">1187</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">1691</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">3142</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">3541</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">5277</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">829</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">2715</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">8419</p>        </td>        
+<td class="X12">          
+<p "width:92"="" style="margin:0px;">4800</p>        </td>        
+<td class="X13">          
+<p "width:101"="" style="margin:0px;">1568</p>        </td>      </tr>      
+<tr>        
+<td class="X9">          
+<p "width:143"="" style="margin:0px;">Meghalaya</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">0</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">2167</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">1609</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">3273</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">1936</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">1037</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">3680</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">4824</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">2632</p>        </td>        
+<td class="X12">          
+<p "width:92"="" style="margin:0px;">600</p>        </td>        
+<td class="X13">          
+<p "width:101"="" style="margin:0px;">528</p>        </td>      </tr>      
+<tr>        
+<td class="X9">          
+<p "width:143"="" style="margin:0px;">Mizoram</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">0</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">1705</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">3658</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">3404</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">4128</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">5050</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">6736</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">9072</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">3400</p>        </td>        
+<td class="X12">          
+<p "width:92"="" style="margin:0px;">1992</p>        </td>        
+<td class="X13">          
+<p "width:101"="" style="margin:0px;">1424</p>        </td>      </tr>      
+<tr>        
+<td class="X9">          
+<p "width:143"="" style="margin:0px;">Nagaland</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">301</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">286</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">1396</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">6545</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">5601</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">4365</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">2407</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">4998</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">7783</p>        </td>        
+<td class="X12">          
+<p "width:92"="" style="margin:0px;">7440</p>        </td>        
+<td class="X13">          
+<p "width:101"="" style="margin:0px;">1232</p>        </td>      </tr>      
+<tr>        
+<td class="X9">          
+<p "width:143"="" style="margin:0px;">Odisha</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">16970</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">17812</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">25842</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">20905</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">37390</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">20482</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">10211</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">17629</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">20392</p>        </td>        
+<td class="X12">          
+<p "width:92"="" style="margin:0px;">19192</p>        </td>        
+<td class="X13">          
+<p "width:101"="" style="margin:0px;">6184</p>        </td>      </tr>      
+<tr>        
+<td class="X9">          
+<p "width:143"="" style="margin:0px;">Puducherry</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">162</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">396</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">757</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">361</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">294</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">181</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">386</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">447</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">699</p>        </td>        
+<td class="X12">          
+<p "width:92"="" style="margin:0px;">352</p>        </td>        
+<td class="X13">          
+<p "width:101"="" style="margin:0px;">48</p>        </td>      </tr>      
+<tr>        
+<td class="X9">          
+<p "width:143"="" style="margin:0px;">Punjab</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">5176</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">8764</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">8234</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">4622</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">5109</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">7536</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">6438</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">7762</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">9858</p>        </td>        
+<td class="X12">          
+<p "width:92"="" style="margin:0px;">12160</p>        </td>        
+<td class="X13">          
+<p "width:101"="" style="margin:0px;">2472</p>        </td>      </tr>      
+<tr>        
+<td class="X9">          
+<p "width:143"="" style="margin:0px;">Rajasthan</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">11794</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">14427</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">24085</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">14955</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">19127</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">13280</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">15002</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">14537</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">13408</p>        </td>        
+<td class="X12">          
+<p "width:92"="" style="margin:0px;">12614</p>        </td>        
+<td class="X13">          
+<p "width:101"="" style="margin:0px;">4336</p>        </td>      </tr>      
+<tr>        
+<td class="X9">          
+<p "width:143"="" style="margin:0px;">Sikkim</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">44</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">226</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">321</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">253</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">256</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">255</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">54</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">397</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">201</p>        </td>        
+<td class="X12">          
+<p "width:92"="" style="margin:0px;">296</p>        </td>        
+<td class="X13">          
+<p "width:101"="" style="margin:0px;">40</p>        </td>      </tr>      
+<tr>        
+<td class="X9">          
+<p "width:143"="" style="margin:0px;">Tamil&nbsp;Nadu</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">19803</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">45510</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">31895</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">43473</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">32723</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">29496</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">36190</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">20836</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">25764</p>        </td>        
+<td class="X12">          
+<p "width:92"="" style="margin:0px;">32760</p>        </td>        
+<td class="X13">          
+<p "width:101"="" style="margin:0px;">4592</p>        </td>      </tr>      
+<tr>        
+<td class="X9">          
+<p "width:143"="" style="margin:0px;">Telangana</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">-</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">-</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">-</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">-</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">-</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">-</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">6604</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">7761</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">6445</p>        </td>        
+<td class="X12">          
+<p "width:92"="" style="margin:0px;">9520</p>        </td>        
+<td class="X13">          
+<p "width:101"="" style="margin:0px;">1488</p>        </td>      </tr>      
+<tr>        
+<td class="X9">          
+<p "width:143"="" style="margin:0px;">Tripura</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">32</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">1757</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">2583</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">16079</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">12172</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">9175</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">6333</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">5355</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">17961</p>        </td>        
+<td class="X12">          
+<p "width:92"="" style="margin:0px;">8928</p>        </td>        
+<td class="X13">          
+<p "width:101"="" style="margin:0px;">1864</p>        </td>      </tr>      
+<tr>        
+<td class="X9">          
+<p "width:143"="" style="margin:0px;">Uttar&nbsp;Pradesh</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">27078</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">41728</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">45019</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">59901</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">45678</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">43449</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">48604</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">43059</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">36315</p>        </td>        
+<td class="X12">          
+<p "width:92"="" style="margin:0px;">43456</p>        </td>        
+<td class="X13">          
+<p "width:101"="" style="margin:0px;">12472</p>        </td>      </tr>      
+<tr>        
+<td class="X9">          
+<p "width:143"="" style="margin:0px;">Uttarakhand</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">2071</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">9088</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">8769</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">6942</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">8367</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">7335</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">7889</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">6161</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">9890</p>        </td>        
+<td class="X12">          
+<p "width:92"="" style="margin:0px;">12904</p>        </td>        
+<td class="X13">          
+<p "width:101"="" style="margin:0px;">4648</p>        </td>      </tr>      
+<tr>        
+<td class="X9">          
+<p "width:143"="" style="margin:0px;">West&nbsp;Bengal</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">47543</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">69203</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">56790</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">61092</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">52624</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">24189</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">24646</p>        </td>        
+<td class="X11">          
+<p "width:92"="" style="margin:0px;">12746</p>        </td>        
+<td class="X10">          
+<p "width:92"="" style="margin:0px;">26604</p>        </td>        
+<td class="X12">          
+<p "width:92"="" style="margin:0px;">10928</p>        </td>        
+<td class="X13">          
+<p "width:101"="" style="margin:0px;">3824</p>        </td>      </tr>      
+<tr>        
+<td class="X14">          
+<p "width:143"="" style="margin:0px;">India</p>        </td>        
+<td class="X15">          
+<p "width:92"="" style="margin:0px;">204747</p>        </td>        
+<td class="X16">          
+<p "width:92"="" style="margin:0px;">424982</p>        </td>        
+<td class="X15">          
+<p "width:92"="" style="margin:0px;">480613</p>        </td>        
+<td class="X16">          
+<p "width:92"="" style="margin:0px;">495523</p>        </td>        
+<td class="X15">          
+<p "width:92"="" style="margin:0px;">428221</p>        </td>        
+<td class="X16">          
+<p "width:92"="" style="margin:0px;">368545</p>        </td>        
+<td class="X15">          
+<p "width:92"="" style="margin:0px;">357502</p>        </td>        
+<td class="X16">          
+<p "width:92"="" style="margin:0px;">323362</p>        </td>        
+<td class="X15">          
+<p "width:92"="" style="margin:0px;">407840</p>        </td>        
+<td class="X17">          
+<p "width:92"="" style="margin:0px;">387184</p>        </td>        
+<td class="X18">          
+<p "width:101"="" style="margin:0px;">111064</p>        </td>      </tr>      
+<tr>        
+<td class="X19">          
+<p "width:143px="" !important;width:143px;"="" style="margin:0px;">        </p></td>        
+<td class="X19">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X19">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X19">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X19">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X19">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X19">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X19">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X19">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X19">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X19">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X20">          
+<p "width:101px="" !important;width:101px;"="" style="margin:0px;">        </p></td>      </tr>      
+<tr>        
+<td class="X21" colspan="2">          
+<p "width:235"="" style="margin:0px;">Note&nbsp;:&nbsp;*&nbsp;:&nbsp;Including&nbsp;Daman&nbsp;and&nbsp;Diu.</p>        </td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X23">          
+<p "width:101px="" !important;width:101px;"="" style="margin:0px;">        </p></td>      </tr>      
+<tr>        
+<td class="X21" colspan="3">          
+<p "width:327"="" style="margin:0px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**&nbsp;:&nbsp;Including&nbsp;Dadra&nbsp;and&nbsp;Nagar&nbsp;Haveli.</p>        </td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X23">          
+<p "width:101px="" !important;width:101px;"="" style="margin:0px;">        </p></td>      </tr>      
+<tr>        
+<td class="X21" colspan="2">          
+<p "width:235"="" style="margin:0px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;#&nbsp;:&nbsp;Upto&nbsp;30.06.2018.&nbsp;</p>        </td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X23">          
+<p "width:101px="" !important;width:101px;"="" style="margin:0px;">        </p></td>      </tr>      
+<tr>        
+<td class="X21" colspan="4">          
+<p "width:419"="" style="margin:0px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;Including&nbsp;un-utilized&nbsp;balance&nbsp;funds&nbsp;of&nbsp;previous&nbsp;year.</p>        </td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X23">          
+<p "width:101px="" !important;width:101px;"="" style="margin:0px;">        </p></td>      </tr>      
+<tr>        
+<td class="X21" colspan="4">          
+<p "width:419"="" style="margin:0px;">Source&nbsp;:&nbsp;Rajya&nbsp;Sabha&nbsp;Unstarred&nbsp;Question&nbsp;No.&nbsp;1020,&nbsp;dated&nbsp;on&nbsp;03.12.2012,</p>        </td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X23">          
+<p "width:101px="" !important;width:101px;"="" style="margin:0px;">        </p></td>      </tr>      
+<tr>        
+<td class="X21" colspan="4">          
+<p "width:419"="" style="margin:0px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;Lok&nbsp;Sabha&nbsp;Unstarred&nbsp;Question&nbsp;No.&nbsp;4033,&nbsp;dated&nbsp;on&nbsp;21.03.2013,</p>        </td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X23">          
+<p "width:101px="" !important;width:101px;"="" style="margin:0px;">        </p></td>      </tr>      
+<tr>        
+<td class="X21" colspan="4">          
+<p "width:419"="" style="margin:0px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;Lok&nbsp;Sabha&nbsp;Starred&nbsp;Question&nbsp;No.&nbsp;43,&nbsp;dated&nbsp;on&nbsp;09.07.2014,&nbsp;</p>        </td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X23">          
+<p "width:101px="" !important;width:101px;"="" style="margin:0px;">        </p></td>      </tr>      
+<tr>        
+<td class="X21" colspan="4">          
+<p "width:419"="" style="margin:0px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;Lok&nbsp;Sabha&nbsp;Unstarred&nbsp;Question&nbsp;No.&nbsp;559,&nbsp;dated&nbsp;on&nbsp;14.07.2014,</p>        </td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X23">          
+<p "width:101px="" !important;width:101px;"="" style="margin:0px;">        </p></td>      </tr>      
+<tr>        
+<td class="X21" colspan="4">          
+<p "width:419"="" style="margin:0px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;Lok&nbsp;Sabha&nbsp;Starred&nbsp;Question&nbsp;No.&nbsp;07,&nbsp;dated&nbsp;on&nbsp;17.07.2017,</p>        </td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X23">          
+<p "width:101px="" !important;width:101px;"="" style="margin:0px;">        </p></td>      </tr>      
+<tr>        
+<td class="X21" colspan="4">          
+<p "width:419"="" style="margin:0px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;Rajya&nbsp;Sabha&nbsp;Unstarred&nbsp;Question&nbsp;No.&nbsp;2662,&nbsp;dated&nbsp;on&nbsp;09.08.2017,</p>        </td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X23">          
+<p "width:101px="" !important;width:101px;"="" style="margin:0px;">        </p></td>      </tr>      
+<tr>        
+<td class="X21" colspan="4">          
+<p "width:419"="" style="margin:0px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;Lok&nbsp;Sabha&nbsp;Starred&nbsp;Question&nbsp;No.&nbsp;321,&nbsp;dated&nbsp;on&nbsp;19.03.2018,</p>        </td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X23">          
+<p "width:101px="" !important;width:101px;"="" style="margin:0px;">        </p></td>      </tr>      
+<tr>        
+<td class="X21" colspan="4">          
+<p "width:419"="" style="margin:0px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;Lok&nbsp;Sabha&nbsp;Unstarred&nbsp;Question&nbsp;No.&nbsp;2723,&nbsp;dated&nbsp;on&nbsp;12.03.2018&nbsp;&amp;</p>        </td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X23">          
+<p "width:101px="" !important;width:101px;"="" style="margin:0px;">        </p></td>      </tr>      
+<tr>        
+<td class="X21" colspan="4">          
+<p "width:419"="" style="margin:0px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;Lok&nbsp;Sabha&nbsp;Starred&nbsp;Question&nbsp;No.&nbsp;77,&nbsp;dated&nbsp;on&nbsp;23.07.2018.</p>        </td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X22">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X23">          
+<p "width:101px="" !important;width:101px;"="" style="margin:0px;">        </p></td>      </tr>      
+<tr>        
+<td class="X24">          
+<p "width:143px="" !important;width:143px;"="" style="margin:0px;">        </p></td>        
+<td class="X24">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X24">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X24">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X24">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X24">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X24">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X24">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X24">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X24">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X24">          
+<p "width:92px="" !important;width:92px;"="" style="margin:0px;">        </p></td>        
+<td class="X25">          
+<p "width:101px="" !important;width:101px;"="" style="margin:0px;">        </p></td>      </tr>    </tbody></table>  </body></html>

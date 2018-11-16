@@ -1,0 +1,794 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Excel.Sheet>
+<meta name=Generator content="Microsoft Excel 12">
+<link rel=File-List href="786665_files/filelist.xml">
+<style
+ id="HTML - Handbook of Statistics on Indian States (2015-2016).................Done Sandhya_19477_Styles">
+<!--table
+	{mso-displayed-decimal-separator:"\.";
+	mso-displayed-thousand-separator:"\,";}
+.font519477
+	{color:white;
+	font-size:8.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;}
+.font619477
+	{color:white;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;}
+.xl7719477
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl7819477
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:middle;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl7919477
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:gray;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:middle;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl8019477
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:gray;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl8119477
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:white;
+	font-size:8.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	border:1.0pt solid black;
+	background:#005195;
+	mso-pattern:black none;
+	white-space:normal;}
+.xl8219477
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:white;
+	font-size:8.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	border:1.0pt solid black;
+	background:#005195;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl8319477
+	{color:windowtext;
+	font-size:8.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:middle;
+	border:1.0pt solid black;
+	background:#8BC4F3;
+	mso-pattern:black none;
+	white-space:nowrap;
+	padding-left:9px;
+	mso-char-indent-count:1;}
+.xl8419477
+	{color:black;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:middle;
+	border:1.0pt solid black;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;
+	padding-left:9px;
+	mso-char-indent-count:1;}
+.xl8519477
+	{color:black;
+	font-size:8.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:middle;
+	border:1.0pt solid black;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;
+	padding-left:9px;
+	mso-char-indent-count:1;}
+.xl8619477
+	{color:windowtext;
+	font-size:8.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:right;
+	vertical-align:middle;
+	border:1.0pt solid black;
+	background:#8BC4F3;
+	mso-pattern:black none;
+	white-space:nowrap;
+	padding-right:9px;
+	mso-char-indent-count:1;}
+.xl8719477
+	{color:black;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:right;
+	vertical-align:middle;
+	border:1.0pt solid black;
+	background:#DFF0FF;
+	mso-pattern:black none;
+	white-space:nowrap;
+	padding-right:9px;
+	mso-char-indent-count:1;}
+.xl8819477
+	{color:black;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:right;
+	vertical-align:middle;
+	border:1.0pt solid black;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;
+	padding-right:9px;
+	mso-char-indent-count:1;}
+.xl8919477
+	{color:black;
+	font-size:8.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:right;
+	vertical-align:middle;
+	border:1.0pt solid black;
+	background:#DFF0FF;
+	mso-pattern:black none;
+	white-space:nowrap;
+	padding-right:9px;
+	mso-char-indent-count:1;}
+.xl9019477
+	{color:black;
+	font-size:8.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Verdana, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:right;
+	vertical-align:middle;
+	border:1.0pt solid black;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;
+	padding-right:9px;
+	mso-char-indent-count:1;}
+-->
+</style>
+</head>
+
+ <body oncontextmenu='return false;' onload='javascript:MyIpIs();'  onkeydown='return onkeyDowEvent(event)'>  </noscript> <script language='JavaScript'>  function msg() { alert('Please download file, Save as not allowed');  }  function MyIpIs() { var elem = document.getElementById('toc'); elem.style.visibility='hidden';   var url=window.location.href;  var ind =url.indexOf('.com'); var ind1 =url.indexOf('.local'); if(ind == -1 || ind1 ==-1 ) { elem.style.visibility='visible'; } else { elem.style.visibility='hidden'; elem.parentNode.removeChild(elem); msg(); } } </script> <script type='text/javascript'>  function onkeyDowEvent(e) { var keycode; var keyName=''; if(window.event) {if(e.ctrlKey){return false ; } else {return true; }            } return true; } </script> <span style='display:none;' id='myIp'></span><span style='display:none;' id='S1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><div id='toc' style='visibility=hidden;' oncopy='retuns false;'>
+<!--[if !excel]>&nbsp;&nbsp;<![endif]-->
+<!--The following information was generated by Microsoft Office Excel's Publish
+as Web Page wizard.-->
+<!--If the same item is republished from Excel, all information between the DIV
+tags will be replaced.-->
+<!----------------------------->
+<!--START OF OUTPUT FROM EXCEL PUBLISH AS WEB PAGE WIZARD -->
+<!----------------------------->
+
+<div
+id="HTML - Handbook of Statistics on Indian States (2015-2016).................Done Sandhya_19477"
+align=center x:publishsource="Excel"><span style='font-variant-ligatures: normal;
+font-variant-caps: normal;orphans: 2;text-align:-webkit-center;widows: 2;
+-webkit-text-stroke-width: 0px'>
+
+<table border=0 cellpadding=0 cellspacing=0 width=861 class=xl7719477
+ style='border-collapse:collapse;table-layout:fixed;width:648pt'>
+ <col class=xl7719477 width=203 style='mso-width-source:userset;mso-width-alt:
+ 7424;width:152pt'>
+ <col class=xl7719477 width=91 style='mso-width-source:userset;mso-width-alt:
+ 3328;width:68pt'>
+ <col class=xl7719477 width=94 span=5 style='mso-width-source:userset;
+ mso-width-alt:3437;width:71pt'>
+ <col class=xl7719477 width=97 style='mso-width-source:userset;mso-width-alt:
+ 3547;width:73pt'>
+ <tr height=32 style='mso-height-source:userset;height:24.0pt'>
+  <td colspan=8 height=32 class=xl8119477 width=861 style='height:24.0pt;
+  width:648pt'><font class="font619477">State-wise Decennial Population by
+  Census in India</font><font class="font519477"><br>
+    (1951, 1961, 1971, 1981, 1991, 2001 and 2011)</font></span></td>
+ </tr>
+ <tr height=18 style='mso-height-source:userset;height:14.1pt'>
+  <td height=18 class=xl8319477 style='height:14.1pt;border-top:none'>States/UTs</td>
+  <td class=xl8619477 style='border-top:none;border-left:none'>1951^</td>
+  <td class=xl8619477 style='border-top:none;border-left:none'>1961</td>
+  <td class=xl8619477 style='border-top:none;border-left:none'>1971</td>
+  <td class=xl8619477 style='border-top:none;border-left:none'>1981</td>
+  <td class=xl8619477 style='border-top:none;border-left:none'>1991</td>
+  <td class=xl8619477 style='border-top:none;border-left:none'>2001</td>
+  <td class=xl8619477 style='border-top:none;border-left:none'>2011</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.95pt'>
+  <td height=17 class=xl8419477 style='height:12.95pt;border-top:none'>Andaman
+  and Nicobar Islands</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>31</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>63548</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>115133</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>188741</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>280661</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>356152</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>380581</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.95pt'>
+  <td height=17 class=xl8419477 style='height:12.95pt;border-top:none'>Andhra
+  Pradesh</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>31115</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>35983447</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>43502708</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>53551026</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>66508008</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>76210007</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>84580777</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.95pt'>
+  <td height=17 class=xl8419477 style='height:12.95pt;border-top:none'>Arunachal
+  Pradesh*</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>-</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>336558</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>467511</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>631839</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>864558</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>1097968</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>1383727</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.95pt'>
+  <td height=17 class=xl8419477 style='height:12.95pt;border-top:none'>Assam **</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>8029</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>10837329</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>14625152</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>18041248</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>22414322</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>26655528</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>31205576</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.95pt'>
+  <td height=17 class=xl8419477 style='height:12.95pt;border-top:none'>Bihar</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>29085</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>46447457</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>56353369</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>69914734</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>64530554</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>82998509</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>104099452</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.95pt'>
+  <td height=17 class=xl8419477 style='height:12.95pt;border-top:none'>Chandigarh</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>24</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>119881</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>257251</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>451610</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>642015</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>900635</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>1055450</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.95pt'>
+  <td height=17 class=xl8419477 style='height:12.95pt;border-top:none'>Chhattisgarh
+  +</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>7457</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>17614928</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>20833803</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>25545198</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.95pt'>
+  <td height=17 class=xl8419477 style='height:12.95pt;border-top:none'>Dadra
+  and Nagar Haveli</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>42</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>57963</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>74170</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>103676</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>138477</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>220490</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>343709</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.95pt'>
+  <td height=17 class=xl8419477 style='height:12.95pt;border-top:none'>Daman
+  and Diu</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>49</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>36670</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>62651</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>78981</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>101586</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>158204</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>243247</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.95pt'>
+  <td height=17 class=xl8419477 style='height:12.95pt;border-top:none'>Delhi</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>1744</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>2658612</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>4065698</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>6220406</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>9420644</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>13850507</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>16787941</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.95pt'>
+  <td height=17 class=xl8419477 style='height:12.95pt;border-top:none'>Goa</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>547</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>589997</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>795120</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>1007749</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>1169793</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>1347668</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>1458545</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.95pt'>
+  <td height=17 class=xl8419477 style='height:12.95pt;border-top:none'>Gujarat</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>16263</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>20633350</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>26697475</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>34085799</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>41309582</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>50671017</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>60439692</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.95pt'>
+  <td height=17 class=xl8419477 style='height:12.95pt;border-top:none'>Haryana</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>5674</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>7590524</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>10036431</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>12922119</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>16463648</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>21144564</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>25351462</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.95pt'>
+  <td height=17 class=xl8419477 style='height:12.95pt;border-top:none'>Himachal
+  Pradesh</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>2386</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>2812463</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>3460434</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>4280818</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>5170877</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>6077900</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>6864602</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.95pt'>
+  <td height=17 class=xl8419477 style='height:12.95pt;border-top:none'>Jammu
+  and Kashmir ***</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>3254</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>3560976</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>4616632</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>5987389</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>7837051</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>10143700</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>12541302</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.95pt'>
+  <td height=17 class=xl8419477 style='height:12.95pt;border-top:none'>Jharkhand
+  +</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>9697</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>21843911</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>26945829</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>32988134</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.95pt'>
+  <td height=17 class=xl8419477 style='height:12.95pt;border-top:none'>Karnataka</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>19402</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>23586772</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>29299014</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>37135714</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>44977201</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>52850562</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>61095297</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.95pt'>
+  <td height=17 class=xl8419477 style='height:12.95pt;border-top:none'>Kerala</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>13549</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>16903715</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>21347375</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>25453680</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>29098518</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>31841374</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>33406061</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.95pt'>
+  <td height=17 class=xl8419477 style='height:12.95pt;border-top:none'>Lakshadweep</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>21</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>24108</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>31810</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>40249</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>51707</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>60650</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>64473</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.95pt'>
+  <td height=17 class=xl8419477 style='height:12.95pt;border-top:none'>Madhya
+  Pradesh</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>18615</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>32372408</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>41654119</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>52178844</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>48566242</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>60348023</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>72626809</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.95pt'>
+  <td height=17 class=xl8419477 style='height:12.95pt;border-top:none'>Maharashtra</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>32003</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>39553718</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>50412235</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>62782818</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>78937187</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>96878627</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>112374333</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.95pt'>
+  <td height=17 class=xl8419477 style='height:12.95pt;border-top:none'>Manipur
+  ++</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>578</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>780037</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>1072753</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>1420953</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>1837149</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>2293896</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>2570390</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.95pt'>
+  <td height=17 class=xl8419477 style='height:12.95pt;border-top:none'>Meghalaya</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>606</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>769380</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>1011699</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>1335819</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>1774778</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>2318822</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>2966889</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.95pt'>
+  <td height=17 class=xl8419477 style='height:12.95pt;border-top:none'>Mizoram</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>196</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>266063</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>332390</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>493757</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>689756</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>888573</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>1097206</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.95pt'>
+  <td height=17 class=xl8419477 style='height:12.95pt;border-top:none'>Nagaland
+  *</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>213</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>369200</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>516449</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>774930</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>1209546</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>1990036</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>1978502</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.95pt'>
+  <td height=17 class=xl8419477 style='height:12.95pt;border-top:none'>Odisha</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>14646</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>17548846</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>21944615</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>26370271</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>31659736</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>36804660</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>41974218</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.95pt'>
+  <td height=17 class=xl8419477 style='height:12.95pt;border-top:none'>Puducherry</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>317</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>369079</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>471707</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>604471</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>807785</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>974345</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>1247953</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.95pt'>
+  <td height=17 class=xl8419477 style='height:12.95pt;border-top:none'>Punjab</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>9161</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>11135069</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>13551060</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>16788915</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>20281969</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>24358999</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>27743338</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.95pt'>
+  <td height=17 class=xl8419477 style='height:12.95pt;border-top:none'>Rajasthan</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>15971</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>20155602</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>25765806</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>34261862</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>44005990</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>56507188</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>68548437</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.95pt'>
+  <td height=17 class=xl8419477 style='height:12.95pt;border-top:none'>Sikkim</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>138</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>162189</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>209843</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>316385</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>406457</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>540851</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>610577</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.95pt'>
+  <td height=17 class=xl8419477 style='height:12.95pt;border-top:none'>Tamil
+  Nadu</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>30119</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>33686953</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>41199168</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>48408077</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>55858946</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>62405679</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>72147030</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.95pt'>
+  <td height=17 class=xl8419477 style='height:12.95pt;border-top:none'>Tripura</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>639</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>1142005</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>1556342</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>2053058</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>2757205</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>3199203</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>3673917</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.95pt'>
+  <td height=17 class=xl8419477 style='height:12.95pt;border-top:none'>Uttar
+  Pradesh</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>60274</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>7050634</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>8489349</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>199812341</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.95pt'>
+  <td height=17 class=xl8419477 style='height:12.95pt;border-top:none'>Uttarakhand&nbsp;&nbsp;+</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>2946</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>73754573</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>88341521</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>110862512</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>132061653</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>166197921</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>10086292</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.95pt'>
+  <td height=17 class=xl8419477 style='height:12.95pt;border-top:none'>West
+  Bengal</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>26300</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>34926279</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>44312011</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>54580647</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>68077965</td>
+  <td class=xl8819477 style='border-top:none;border-left:none'>80176197</td>
+  <td class=xl8719477 style='border-top:none;border-left:none'>91276115</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.95pt'>
+  <td height=17 class=xl8519477 style='height:12.95pt;border-top:none'>India</td>
+  <td class=xl8919477 style='border-top:none;border-left:none'>361088</td>
+  <td class=xl9019477 style='border-top:none;border-left:none'>439234771</td>
+  <td class=xl8919477 style='border-top:none;border-left:none'>548159652</td>
+  <td class=xl9019477 style='border-top:none;border-left:none'>683329097</td>
+  <td class=xl8919477 style='border-top:none;border-left:none'>846421039</td>
+  <td class=xl9019477 style='border-top:none;border-left:none'>1028737436</td>
+  <td class=xl8919477 style='border-top:none;border-left:none'>1210569573</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.95pt'>
+  <td height=17 class=xl7819477 style='height:12.95pt'></td>
+  <td class=xl7719477></td>
+  <td class=xl7719477></td>
+  <td class=xl7719477></td>
+  <td class=xl7719477></td>
+  <td class=xl7719477></td>
+  <td class=xl7719477></td>
+  <td class=xl7719477></td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.95pt'>
+  <td height=17 class=xl7919477 colspan=4 style='height:12.95pt'></div>
+  Note : * : Arunachal Pradesh was Censused for the First Time in 1961.</td>
+  <td class=xl7719477></td>
+  <td class=xl7719477></td>
+  <td class=xl7719477></td>
+  <td class=xl7719477></td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.95pt'>
+  <td height=17 class=xl7919477 colspan=8 style='height:12.95pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**
+  : The 1981 Census Could Not be Held Owing to Disturbed Conditions Prevailing
+  in Assam. Hence the Population Figures for 1981 of Assam.</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.95pt'>
+  <td height=17 class=xl7919477 colspan=8 style='height:12.95pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  + : Uttaranchal, Jharkhand, Chhattisgarh States Carved Out from UP, Bihar and
+  MP Respectively are Censused for the First Time in 2001.&nbsp;</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.95pt'>
+  <td height=17 class=xl7919477 colspan=8 style='height:12.95pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  *** : The 1991 Census was Not Held in Jammu and Kashmir. Hence the Population
+  Figures for 1991 of Jammu and Kashmir have been Worked.</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.95pt'>
+  <td height=17 class=xl7919477 colspan=8 style='height:12.95pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  ++ : The Population of Manipur State Includes the Estimated Population of Mao
+  Maram, Paomata and Purul Sub-divisionssof Senapati District.&nbsp;</td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.95pt'>
+  <td height=17 class=xl7919477 colspan=2 style='height:12.95pt'><span
+  style='mso-spacerun:yes'>         </span>^ : Figures are in Thousands.</td>
+  <td class=xl7719477></td>
+  <td class=xl7719477></td>
+  <td class=xl7719477></td>
+  <td class=xl7719477></td>
+  <td class=xl7719477></td>
+  <td class=xl7719477></td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.95pt'>
+  <td height=17 class=xl7919477 colspan=5 style='height:12.95pt'>Source :
+  Ministry of Statistics and Programme Implementation, Govt. of India. (ON402)
+  &amp;</td>
+  <td class=xl7719477></td>
+  <td class=xl7719477></td>
+  <td class=xl7719477></td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.95pt'>
+  <td height=17 class=xl7919477 colspan=2 style='height:12.95pt'><span
+  style='mso-spacerun:yes'>             </span>Reserve Bank of India. (ON1197)</td>
+  <td class=xl7719477></td>
+  <td class=xl7719477></td>
+  <td class=xl7719477></td>
+  <td class=xl7719477></td>
+  <td class=xl7719477></td>
+  <td class=xl7719477></td>
+ </tr>
+ <tr height=17 style='mso-height-source:userset;height:12.95pt'>
+  <td height=17 class=xl7819477 style='height:12.95pt'></td>
+  <td class=xl7719477></td>
+  <td class=xl7719477></td>
+  <td class=xl7719477></td>
+  <td class=xl7719477></td>
+  <td class=xl7719477></td>
+  <td class=xl7719477></td>
+  <td class=xl7719477></td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=0 style='display:none'>
+  <td width=203 style='width:152pt'></td>
+  <td width=91 style='width:68pt'></td>
+  <td width=94 style='width:71pt'></td>
+  <td width=94 style='width:71pt'></td>
+  <td width=94 style='width:71pt'></td>
+  <td width=94 style='width:71pt'></td>
+  <td width=94 style='width:71pt'></td>
+  <td width=97 style='width:73pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
+</div>
+
+
+<!----------------------------->
+<!--END OF OUTPUT FROM EXCEL PUBLISH AS WEB PAGE WIZARD-->
+<!----------------------------->
+</body>  </div>   </body></html>
